@@ -1,8 +1,24 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-12T04:52:35.573Z",
+ "scannedAt": "2026-10-12T12:28:41.820Z",
  "conversations": [
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 485,
+   "work": 48,
+   "prompts": 3,
+   "first": "2026-10-12T00:44:17.264Z",
+   "last": "2026-10-12T12:06:40.392Z",
+   "strength": "strong",
+   "conversationId": "claude:7e78b89b-c9f6-435b-aeea-a9878d6c808b",
+   "provider": "claude",
+   "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
+   "title": "Motion Design GLSL",
+   "updatedAt": "2026-10-12T12:16:40.144Z",
+   "bytes": 20761,
+   "boundProject": "zenray-motion-design"
+  },
   {
    "projectId": "zenray-motion-design",
    "lines": 191,
@@ -18,22 +34,6 @@
    "updatedAt": "2026-10-11T15:18:28.747Z",
    "bytes": 21003,
    "boundProject": "zenray-motion-design-01"
-  },
-  {
-   "projectId": "zenray-motion-design",
-   "lines": 40,
-   "work": 4,
-   "prompts": 1,
-   "first": "2026-10-12T00:44:17.264Z",
-   "last": "2026-10-12T01:18:39.279Z",
-   "strength": "strong",
-   "conversationId": "claude:7e78b89b-c9f6-435b-aeea-a9878d6c808b",
-   "provider": "claude",
-   "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
-   "title": "Motion Design V2",
-   "updatedAt": "2026-10-12T01:18:39.952Z",
-   "bytes": 20894,
-   "boundProject": "zenray-motion-design"
   },
   {
    "projectId": "zenray-motion-design",
@@ -66,6 +66,38 @@
    "updatedAt": "2026-10-11T21:28:15.851Z",
    "bytes": 20999,
    "boundProject": "zenray-height"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 9,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-12T10:05:05.102Z",
+   "last": "2026-10-12T12:04:03.779Z",
+   "strength": "weak",
+   "conversationId": "claude:d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "provider": "claude",
+   "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "title": "ZenRay Assets UI rework",
+   "updatedAt": "2026-10-12T12:11:20.483Z",
+   "bytes": 20996,
+   "boundProject": "zenray-assets-tube-view"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 3,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-12T08:44:21.442Z",
+   "last": "2026-10-12T08:51:45.520Z",
+   "strength": "weak",
+   "conversationId": "claude:5eff1aab-c6ea-4a74-81cf-51380f6fc653",
+   "provider": "claude",
+   "sessionId": "5eff1aab-c6ea-4a74-81cf-51380f6fc653",
+   "title": "ZENRAY FREELANCE",
+   "updatedAt": "2026-10-12T10:50:49.075Z",
+   "bytes": 20885,
+   "boundProject": "zenray-freelance"
   },
   {
    "projectId": "zenray-motion-design",

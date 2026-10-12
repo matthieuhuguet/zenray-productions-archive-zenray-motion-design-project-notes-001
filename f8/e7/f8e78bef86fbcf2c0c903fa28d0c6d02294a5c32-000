@@ -3,3 +3,12 @@
 - Project ID: zenray-motion-design. (12 October 2026)
 - Canonical feedback: /Users/zenray/.claude/Memory1/Projects/zenray-motion-design/FEEDBACK.md. (12 October 2026)
 - Append dated decisions and verified knowledge here; retain existing entries. (12 October 2026)
+
+## 12 October 2026 : ce que le projet sait
+
+- Objet (12 October 2026) : logiciel déterministe qui reproduit un motion design depuis une vidéo de référence, en motions réutilisables versionnés V_001 à V_999 ; référence de travail onekey-pro-2 (68,05 s, 26 coupes, cadence de contenu 30 i/s par endroits dans un conteneur 60 i/s). (12 October 2026)
+- Où (12 October 2026) : moteur `/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ZenRayMotionDesign` (paquet zrmd, architecture `docs/ARCHITECTURE.md`) ; motions `/Users/zenray/.claude/tmp/tmp-zenray-motion-design/motions/` ; références (métadonnées, bibles, storyboards) `/Users/zenray/.claude/tmp/tmp-zenray-motion-design/references/` ; médias de référence en cache local jamais archivé `/Users/zenray/.claude/tmp/tmp-zenray-motion-design-refcache/` ; montages `/Users/zenray/.claude/tmp/tmp-zenray-motion-design-montages/`. (12 October 2026)
+- Interfaces (12 October 2026) : CLI `python -I -m zrmd.cli`, MCP `zenray-motion-design` (connecté dans Claude Code), service `com.zenray.motion` sur 127.0.0.1:3102 route `/api/motion`, onglet Motion Design du site déployé le 12 October 2026 (commit 6466ff4d, branche de travail `/Users/zenray/.claude/tmp/tmp-zenray-motion-design-site`). (12 October 2026)
+- Mesures (12 October 2026) : orbe d'ouverture 0,9922 de SSIM au pixel ; légendes de 0,98 à 0,999 (lumière, typographie, animation en seuils différentiels) ; plaques en color animatic 0,997 à 0,999 d'étalonnage ; film remonté à 26 coupes sur 26 à une image près ; son : musique originale 99,2, mixage 99,8, SFX 85 (en cours). (12 October 2026)
+- Décisions (12 October 2026) : on mesure, on ne copie pas ; mots et marques remplacés par un contenu original de même géométrie (banque `datasets/caption-bank.json`) ; police libre la plus proche Lexend pour OneKey ; la publication cloud d'un motion attend la validation des droits par Matthieu. (12 October 2026)
+- Reprise (12 October 2026) : `state.json` de l'atelier, puis `docs/build/` et `docs/research/` ; workflows par runId (règle Rules.md). (12 October 2026)
