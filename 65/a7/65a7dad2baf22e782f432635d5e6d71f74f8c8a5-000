@@ -1,0 +1,5 @@
+# zenray-motion-design : rules, append only (12 October 2026)
+
+Standing rules of this project, one line each, loaded automatically at session start. Full history and context: FEEDBACK.md in this folder. A rule that changes gets a new line citing the old one. (12 October 2026)
+
+- 12 October 2026 : un workflow qui s'arrête se relance TOUJOURS par Workflow({scriptPath, resumeFromRunId}) avec son runId noté dans state.json, jamais en relançant à neuf, pour ne perdre aucun token déjà calculé. (12 October 2026) (12 October 2026) <!-- rule:b1bdbcf2d832 -->
