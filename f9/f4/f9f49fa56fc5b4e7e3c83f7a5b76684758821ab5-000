@@ -1,23 +1,71 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-13T08:02:52.648Z",
+ "scannedAt": "2026-10-14T22:32:32.319Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 612,
-   "work": 57,
-   "prompts": 8,
+   "lines": 1388,
+   "work": 181,
+   "prompts": 13,
    "first": "2026-10-12T00:44:17.264Z",
-   "last": "2026-10-13T07:10:35.901Z",
+   "last": "2026-10-14T13:36:15.442Z",
    "strength": "strong",
    "conversationId": "claude:7e78b89b-c9f6-435b-aeea-a9878d6c808b",
    "provider": "claude",
    "sessionId": "7e78b89b-c9f6-435b-aeea-a9878d6c808b",
-   "title": "Motion Design GLSL",
-   "updatedAt": "2026-10-13T07:56:16.862Z",
-   "bytes": 29403539,
+   "title": "Conversation claude 7e78b89b",
+   "updatedAt": "2026-10-14T13:36:42.695Z",
+   "bytes": 46514632,
    "boundProject": "zenray-motion-design"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 825,
+   "work": 161,
+   "prompts": 3,
+   "first": "2026-10-14T11:34:57.548Z",
+   "last": "2026-10-14T22:29:17.954Z",
+   "strength": "strong",
+   "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
+   "provider": "claude",
+   "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
+   "title": "Motion Design Vector and Music",
+   "updatedAt": "2026-10-14T22:29:17.954Z",
+   "bytes": 22041616,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 145,
+   "work": 78,
+   "prompts": 0,
+   "first": "2026-10-13T18:50:12.106Z",
+   "last": "2026-10-13T21:05:22.427Z",
+   "strength": "strong",
+   "conversationId": "codex:01a13699-a7ed-70e1-8dec-195a33900e86",
+   "provider": "codex",
+   "sessionId": "01a13699-a7ed-70e1-8dec-195a33900e86",
+   "title": "Conversation codex 01a13699",
+   "updatedAt": "2026-10-13T22:11:29.810Z",
+   "bytes": 5648209,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 696,
+   "work": 71,
+   "prompts": 11,
+   "first": "2026-10-12T00:44:17.264Z",
+   "last": "2026-10-13T13:49:10.948Z",
+   "strength": "strong",
+   "conversationId": "claude:c7091e39-3b47-4490-b479-1f3d80bdbcfa",
+   "provider": "claude",
+   "sessionId": "c7091e39-3b47-4490-b479-1f3d80bdbcfa",
+   "title": "Motion Design GLSL (fork) Sonnet 5.5 Après Modules",
+   "updatedAt": "2026-10-13T17:04:27.813Z",
+   "bytes": 20264,
+   "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
@@ -32,7 +80,7 @@
    "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
    "title": "MOTION DESIGN",
    "updatedAt": "2026-10-11T15:18:28.747Z",
-   "bytes": 21003,
+   "bytes": 21086,
    "boundProject": "zenray-motion-design-01"
   },
   {
@@ -47,9 +95,41 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-13T08:02:39.168Z",
-   "bytes": 17325977,
+   "updatedAt": "2026-10-14T21:20:07.809Z",
+   "bytes": 31925902,
    "boundProject": "zenray-japanese"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 3,
+   "work": 3,
+   "prompts": 0,
+   "first": "2026-10-13T17:08:49.083Z",
+   "last": "2026-10-13T18:52:40.364Z",
+   "strength": "strong",
+   "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
+   "provider": "gemini",
+   "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
+   "title": "Conversation Gemini d497c75f",
+   "updatedAt": "2026-10-13T18:55:41.045Z",
+   "bytes": 5111808,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 2,
+   "work": 1,
+   "prompts": 1,
+   "first": "2026-10-13T10:04:50.443Z",
+   "last": "2026-10-13T10:09:58.438Z",
+   "strength": "strong",
+   "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
+   "provider": "gemini",
+   "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
+   "title": "Conversation Gemini e5ad7aef",
+   "updatedAt": "2026-10-13T10:11:02.705Z",
+   "bytes": 2293760,
+   "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
@@ -64,7 +144,7 @@
    "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
    "title": "ZENRAY HEIGHT",
    "updatedAt": "2026-10-12T04:52:19.855Z",
-   "bytes": 21038,
+   "bytes": 21121,
    "boundProject": "zenray-height"
   },
   {
@@ -78,9 +158,9 @@
    "conversationId": "claude:d71651de-2d57-45d0-b20d-830dd146d2ac",
    "provider": "claude",
    "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
-   "title": "ZenRay Assets UI rework",
-   "updatedAt": "2026-10-12T21:50:37.290Z",
-   "bytes": 20938,
+   "title": "ZenRay Assets UI rework in zenray edit",
+   "updatedAt": "2026-10-14T10:45:04.320Z",
+   "bytes": 21342,
    "boundProject": "zenray-assets-tube-view"
   },
   {
@@ -96,8 +176,24 @@
    "sessionId": "97dafd1e-ddee-454d-997b-6216fe6d4064",
    "title": "ZENRAY HEIGHT (fork)",
    "updatedAt": "2026-10-11T21:28:15.851Z",
-   "bytes": 20999,
+   "bytes": 21082,
    "boundProject": "zenray-height"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 3,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-14T21:21:50.550Z",
+   "last": "2026-10-14T22:10:12.589Z",
+   "strength": "weak",
+   "conversationId": "claude:5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
+   "provider": "claude",
+   "sessionId": "5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
+   "title": "performance assets and drive",
+   "updatedAt": "2026-10-14T22:31:59.174Z",
+   "bytes": 5596668,
+   "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
@@ -112,7 +208,7 @@
    "sessionId": "5eff1aab-c6ea-4a74-81cf-51380f6fc653",
    "title": "ZENRAY FREELANCE",
    "updatedAt": "2026-10-12T10:50:49.075Z",
-   "bytes": 20885,
+   "bytes": 20968,
    "boundProject": "zenray-freelance"
   },
   {
@@ -128,7 +224,39 @@
    "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
    "title": "ZENRAY ASSETS",
    "updatedAt": "2026-10-11T22:51:54.267Z",
-   "bytes": 20888,
+   "bytes": 20971,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-12T21:20:32.418Z",
+   "last": "2026-10-14T13:59:50.465Z",
+   "strength": "weak",
+   "conversationId": "claude:fc4febb5-8a38-4c74-8919-9a72175d0d7e",
+   "provider": "claude",
+   "sessionId": "fc4febb5-8a38-4c74-8919-9a72175d0d7e",
+   "title": "DRIVE evolution (fork)",
+   "updatedAt": "2026-10-14T19:11:34.636Z",
+   "bytes": 21050,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-12T21:20:32.418Z",
+   "last": "2026-10-14T13:16:16.773Z",
+   "strength": "weak",
+   "conversationId": "claude:ff2c4a10-5024-4fbb-917a-0b2ac5886f52",
+   "provider": "claude",
+   "sessionId": "ff2c4a10-5024-4fbb-917a-0b2ac5886f52",
+   "title": "Design Lecteur Video",
+   "updatedAt": "2026-10-14T13:45:00.698Z",
+   "bytes": 21122,
    "boundProject": null
   },
   {
@@ -143,8 +271,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "DRIVE evolution",
-   "updatedAt": "2026-10-12T22:02:11.799Z",
-   "bytes": 20972,
+   "updatedAt": "2026-10-14T09:54:43.918Z",
+   "bytes": 20819,
    "boundProject": null
   },
   {
@@ -160,7 +288,7 @@
    "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
    "title": "LOUISIANA BAYOU",
    "updatedAt": "2026-10-11T15:13:10.697Z",
-   "bytes": 20881,
+   "bytes": 20964,
    "boundProject": "louisiana-bayou"
   }
  ]
