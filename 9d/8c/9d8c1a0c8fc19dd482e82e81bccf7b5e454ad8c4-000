@@ -11910,3 +11910,11 @@
 - Project: zenray-motion-design; kind: prompt. (15 October 2026, 20:44:45 +0200)
 
 > 15 October 2026 : demande d'un corpus de 64 vidéos de référence nouvelles (presse, jeux vidéo, cinéma, VFX, SF, médiéval, trailers) à fort parti pris artistique, pour un run de nuit ; l'agent de recherche ne reçoit qu'un prompt simple, les 64 styles sont décidés ici. Fichiers : corpus-64/Styles64.md et AgentPrompt.md. (15 October 2026) (15 October 2026, 20:44:45 +0200)
+
+## 15 October 2026, 23:11:32 +0200 : Iteration
+
+<!-- feedback-event:43e0be607426cc807e3cba54feb4bbecff33f443d583cf6499cdc23e9a4b635a (15 October 2026, 23:11:32 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (15 October 2026, 23:11:32 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (15 October 2026, 23:11:32 +0200)
+
+> 15 October 2026, clôture du projet par Matthieu. Fait et vérifié : 12 références en motion à 100 % (plans illustrés, style maison, 4 formats), 16 animations exportées puis publiées sur ZenRayProgress Motion Design (zrmd-0001 à zrmd-0016, droits validés par Matthieu), entrée Studio du site qui affiche l app du Mac (port 3104, commits e63bae91 et 7115e1eb déployés), dépôt ZenRayMotionDesign poussé (a998445), dossiers motion/, motion-projects/ et motion-bank/ ajoutés à la sauvegarde Assets (6807 sur 6809 fichiers sauvegardés au contrôle). Prochain geste à la reprise : publier les nouveaux rendus par publish_stage.py puis PublishMotions.mjs --motion <id> --push. (15 October 2026, 23:11:32 +0200)
