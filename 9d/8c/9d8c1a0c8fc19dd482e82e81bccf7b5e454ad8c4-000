@@ -11889,3 +11889,10 @@
 - Project: zenray-motion-design; kind: rule. (15 October 2026, 15:15:14 +0200)
 
 > 15 October 2026 : chaque animation motion générée depuis une référence est cohérente visuellement avec les autres (mêmes jetons : polices du trio et Vogun, palette, rythme d'entrée et de sortie, marges sûres), visible seule dans la galerie Animations et compréhensible hors de la vidéo d'origine, sans plan de référence derrière elle, pour être intégrée et modifiée dans un autre média ; une reproduction n'est finie qu'à 100 % de couverture motion (aucun plan de référence restant) puis après la passe de nettoyage commune. (15 October 2026) (15 October 2026, 15:15:14 +0200)
+
+## 15 October 2026, 15:48:47 +0200 : Standing rule
+
+<!-- feedback-event:9dc74ff34f3ace8fce11d34fa0fd128c805e9e6e497097df83c28dc12f6387df (15 October 2026, 15:48:47 +0200) -->
+- Project: zenray-motion-design; kind: rule. (15 October 2026, 15:48:47 +0200)
+
+> 15 October 2026 : toute animation Motion tient dans les quatre formats (16:9, 9:16, 1:1, 4:5) : aucun sujet ni texte rogné par un recadrage au centre ; une valeur mesurée en pixels d'un cadre 16:9 se joue sur une scène 1920 x 1080 mise à l'échelle de la largeur (ZS.stage1920). Seul un hors-champ voulu par une caméra mesurée est admis. Contrôle : ZS.cropCheck dans les quatre formats et une planche par format. (15 October 2026) (15 October 2026, 15:48:47 +0200)
