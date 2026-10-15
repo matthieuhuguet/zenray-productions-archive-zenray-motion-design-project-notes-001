@@ -11846,3 +11846,32 @@
 > <summary>4 background agents didn't finish before the previous session ended: "Music module to 99.9 on 33 members" (ac883e64395cff32b), "Vector module measure and improve" (a657c1cdc972d952a), "SFX module: share music trim, reach 99.9" (afa1fc6d260e25066), "Rhythm module: method research to 99.9" (a025352708ca28585).</summary> (14 October 2026, 15:36:42 +0200)
 > <note>No completion record was found for them in the previous session. They may have been stopped, or they may have been running when the previous Claude Code process exited — either way their transcripts are saved, so their progress is not lost. Resume any of them by sending a message to its id with SendMessage, or check its worktree/output for partial work before assuming the task landed.</note> (14 October 2026, 15:36:42 +0200)
 > </task-notification> (14 October 2026, 15:36:42 +0200)
+
+## 15 October 2026, 09:24:34 +0200 : Standing rule
+
+<!-- feedback-event:149b1ac1bc33d4ead2aff510bfa5c6045d4a6b864810e0504d3a67c765ebe581 (15 October 2026, 09:24:34 +0200) -->
+- Project: zenray-motion-design; kind: rule. (15 October 2026, 09:24:34 +0200)
+
+> 15 October 2026 : un rejeu de calage musical sur un autre tempo déforme la carte autour de t0 (comme la partition) et borne le champ déplacé (warpMaxDeviationDb) ; on lit le RMS et la crête du rejeu, jamais seulement maxLevelShiftDb. Test : tests/test_calibration.py. (15 October 2026, 09:24:34 +0200)
+
+## 15 October 2026, 09:24:34 +0200 : Standing rule
+
+<!-- feedback-event:2794e1e5467e48121284707992ebaecea278405b314c59cba8703371e55dfd87 (15 October 2026, 09:24:34 +0200) -->
+- Project: zenray-motion-design; kind: rule. (15 October 2026, 09:24:34 +0200)
+
+> 15 October 2026 : le polish d'une qualité finale ne s'éloigne pas de la version calée : garde de fidélité (critique officiel contre le signal calé, plancher 99,9, étages retirés dans l'ordre) et la clé du cache de cuisson porte la version du pipeline. Test : tests/test_music_studio.py. (15 October 2026, 09:24:34 +0200)
+
+## 15 October 2026, 09:24:35 +0200 : Standing rule
+
+<!-- feedback-event:544d616d951ce86e384614965fcd6abb263813ce0b54478fc4b99848fd920d79 (15 October 2026, 09:24:35 +0200) -->
+- Project: zenray-motion-design; kind: rule. (15 October 2026, 09:24:35 +0200)
+
+> 15 October 2026 : un livrable vecteur à milliers de calques se règle par unités (groupe G###, rôle role:glow, view.adjust) ; la valeur du module est la fidélité composite CIEDE2000, jamais un seuil baissé ou redéfini en silence ; une prolongation longue écrit sa version à chaque ronde (à faire). (15 October 2026, 09:24:35 +0200)
+
+## 15 October 2026, 09:31:24 +0200 : Iteration
+
+<!-- feedback-event:0f43ccc1fdafe4d858ceffd774e854e22eb7c2703fbd6faaa7fcefd0a78311d3 (15 October 2026, 09:31:24 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (15 October 2026, 09:31:24 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (15 October 2026, 09:31:24 +0200)
+
+> 1.2.0 préparée : pile de calques vecteur (4 références sur 12 à 0,999), qualité finale musicale rejouant le calage sous garde de fidélité, défaut du calage sur un autre tempo corrigé (t0) et prouvé sur memo-m1, docs RELEASE-1.2.0 et ARCHITECTURE 19-20, skill synchronisé. Prochain : prolongations vecteur puis adopt, preuve de variation sur les autres membres. (15 October 2026, 09:31:24 +0200)
