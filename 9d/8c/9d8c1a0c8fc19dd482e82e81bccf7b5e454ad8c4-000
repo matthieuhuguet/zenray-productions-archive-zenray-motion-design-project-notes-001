@@ -11875,3 +11875,10 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (15 October 2026, 09:31:24 +0200)
 
 > 1.2.0 préparée : pile de calques vecteur (4 références sur 12 à 0,999), qualité finale musicale rejouant le calage sous garde de fidélité, défaut du calage sur un autre tempo corrigé (t0) et prouvé sur memo-m1, docs RELEASE-1.2.0 et ARCHITECTURE 19-20, skill synchronisé. Prochain : prolongations vecteur puis adopt, preuve de variation sur les autres membres. (15 October 2026, 09:31:24 +0200)
+
+## 15 October 2026, 12:49:46 +0200 : Standing rule
+
+<!-- feedback-event:44b596eab7dddaa8e2d81356d0beadb8965c7cbdb6106eda83adae02bb083dd6 (15 October 2026, 12:49:46 +0200) -->
+- Project: zenray-motion-design; kind: rule. (15 October 2026, 12:49:46 +0200)
+
+> 15 October 2026 : le produit est ZenRay Studio (studio/) : des modèles paramétriques modifiés en direct, jamais une reproduction au pixel ; tout ce qui reproduit (vecteur en pile, resynthèse musicale, calages) est dans labs/ et ne se relance pas sans demande. Une valeur visible vient toujours d'un paramètre (test_runtime.mjs refuse au-delà de 4/8/16). (15 October 2026, 12:49:46 +0200)

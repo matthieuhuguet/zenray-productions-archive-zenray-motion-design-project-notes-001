@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-15T10:46:48.407Z",
+ "scannedAt": "2026-10-15T10:50:48.442Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 1259,
-   "work": 251,
+   "lines": 1291,
+   "work": 256,
    "prompts": 4,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-15T10:46:03.592Z",
+   "last": "2026-10-15T10:49:46.949Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "Motion Design Vector and Music",
-   "updatedAt": "2026-10-15T10:46:38.858Z",
-   "bytes": 35827552,
+   "updatedAt": "2026-10-15T10:50:12.347Z",
+   "bytes": 21649,
    "boundProject": null
   },
   {
