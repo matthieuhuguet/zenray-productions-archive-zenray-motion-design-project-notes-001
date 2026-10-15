@@ -11896,3 +11896,10 @@
 - Project: zenray-motion-design; kind: rule. (15 October 2026, 15:48:47 +0200)
 
 > 15 October 2026 : toute animation Motion tient dans les quatre formats (16:9, 9:16, 1:1, 4:5) : aucun sujet ni texte rogné par un recadrage au centre ; une valeur mesurée en pixels d'un cadre 16:9 se joue sur une scène 1920 x 1080 mise à l'échelle de la largeur (ZS.stage1920). Seul un hors-champ voulu par une caméra mesurée est admis. Contrôle : ZS.cropCheck dans les quatre formats et une planche par format. (15 October 2026) (15 October 2026, 15:48:47 +0200)
+
+## 15 October 2026, 20:30:35 +0200 : Standing rule
+
+<!-- feedback-event:48525929eeadc7a83dbeaad70a4071ad6e83bc0c26d171537b30a037d39b8c55 (15 October 2026, 20:30:35 +0200) -->
+- Project: zenray-motion-design; kind: rule. (15 October 2026, 20:30:35 +0200)
+
+> 15 October 2026 : l'app ZenRay Motion Design est sur ZenRayProgress, page Motion Design, entrée Studio : le site affiche dans un cadre l'app qui tourne sur le Mac (port 3104), donc toute modification de l'app s'y voit aussitôt (la page se recharge seule quand son code change). Seuls les rendus vidéo demandent une publication : python3 motion/publish_stage.py puis, dans ZenRayProgress, node scripts/Motion/PublishMotions.mjs --motion <id> --push (un motion à la fois ; les anciens motions sans droits bloqueraient un envoi global). Tout doit fonctionner depuis le site ; une modification n'est finie que vérifiée dans Motion Design > Studio. (15 October 2026) (15 October 2026, 20:30:35 +0200)
