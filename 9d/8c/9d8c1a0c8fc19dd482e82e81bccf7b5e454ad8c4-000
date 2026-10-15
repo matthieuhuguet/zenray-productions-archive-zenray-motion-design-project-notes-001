@@ -11903,3 +11903,10 @@
 - Project: zenray-motion-design; kind: rule. (15 October 2026, 20:30:35 +0200)
 
 > 15 October 2026 : l'app ZenRay Motion Design est sur ZenRayProgress, page Motion Design, entrée Studio : le site affiche dans un cadre l'app qui tourne sur le Mac (port 3104), donc toute modification de l'app s'y voit aussitôt (la page se recharge seule quand son code change). Seuls les rendus vidéo demandent une publication : python3 motion/publish_stage.py puis, dans ZenRayProgress, node scripts/Motion/PublishMotions.mjs --motion <id> --push (un motion à la fois ; les anciens motions sans droits bloqueraient un envoi global). Tout doit fonctionner depuis le site ; une modification n'est finie que vérifiée dans Motion Design > Studio. (15 October 2026) (15 October 2026, 20:30:35 +0200)
+
+## 15 October 2026, 20:44:45 +0200 : Prompt
+
+<!-- feedback-event:f1d39f7d056c2fd12f618142c8f001c338c77d587821383a382ffaff47d0a83b (15 October 2026, 20:44:45 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (15 October 2026, 20:44:45 +0200)
+
+> 15 October 2026 : demande d'un corpus de 64 vidéos de référence nouvelles (presse, jeux vidéo, cinéma, VFX, SF, médiéval, trailers) à fort parti pris artistique, pour un run de nuit ; l'agent de recherche ne reçoit qu'un prompt simple, les 64 styles sont décidés ici. Fichiers : corpus-64/Styles64.md et AgentPrompt.md. (15 October 2026) (15 October 2026, 20:44:45 +0200)
