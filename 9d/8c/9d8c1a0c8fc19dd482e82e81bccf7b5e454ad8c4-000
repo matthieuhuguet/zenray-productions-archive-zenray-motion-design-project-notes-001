@@ -11918,3 +11918,17 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (15 October 2026, 23:11:32 +0200)
 
 > 15 October 2026, clôture du projet par Matthieu. Fait et vérifié : 12 références en motion à 100 % (plans illustrés, style maison, 4 formats), 16 animations exportées puis publiées sur ZenRayProgress Motion Design (zrmd-0001 à zrmd-0016, droits validés par Matthieu), entrée Studio du site qui affiche l app du Mac (port 3104, commits e63bae91 et 7115e1eb déployés), dépôt ZenRayMotionDesign poussé (a998445), dossiers motion/, motion-projects/ et motion-bank/ ajoutés à la sauvegarde Assets (6807 sur 6809 fichiers sauvegardés au contrôle). Prochain geste à la reprise : publier les nouveaux rendus par publish_stage.py puis PublishMotions.mjs --motion <id> --push. (15 October 2026, 23:11:32 +0200)
+
+## 16 October 2026, 03:37:17 +0200 : Standing rule
+
+<!-- feedback-event:2de915c4322220c6939dcf214edc2d2e5551de1eab7c1d66650ad70a22075a99 (16 October 2026, 03:37:17 +0200) -->
+- Project: zenray-motion-design; kind: rule. (16 October 2026, 03:37:17 +0200)
+
+> 16 October 2026 : tout corpus de références suit UN seul workflow, dans cet ordre : (1) télécharger (1080p au plus, 240 s au plus) dans le cache non archivé ; (2) couper au rythme (shots) ; (3) bible + storyboard (book) ; (4) analyser les images avec Apple Vision (classes, texte, visages) ; (5) calculer l'animation : un projet Motion modifiable par vidéo, plans illustrés, textes de remplacement ZenRay de même géométrie (jamais les mots de la référence), tous les réglages exposés ; (6) style maison puis contrôle des 4 formats ; (7) musique rangée dans la banque de l'app. La nuit tourne par Scripts/CorpusNight.py : reprenable, un état par vidéo, jamais une vidéo ne bloque les autres. Corpus 102 : /Users/zenray/Downloads/Corpus.md, copie dans l'atelier corpus-102/. (16 October 2026) (16 October 2026, 03:37:17 +0200)
+
+## 16 October 2026, 03:37:17 +0200 : Standing rule
+
+<!-- feedback-event:1f162d58f782648f89f5bea0ab0a0875e30865a45567a90617831cc242e10d48 (16 October 2026, 03:37:17 +0200) -->
+- Project: zenray-motion-design; kind: rule. (16 October 2026, 03:37:17 +0200)
+
+> 16 October 2026 : le Montage reste ultra simple : un seul écran, des gestes visibles (ajouter, déplacer, couper, supprimer), la barre de temps se parcourt au doigt, aucune option cachée ; tout réglage fin est dans un tiroir « Réglages » replié par défaut. (16 October 2026) (16 October 2026, 03:37:17 +0200)
