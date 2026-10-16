@@ -11946,3 +11946,17 @@
 - Project: zenray-motion-design; kind: rule. (16 October 2026, 08:36:50 +0200)
 
 > 16 October 2026 (correction, remplace la méthode du tracé du même jour) : je cesse de tracer image par image les vidéos de référence du corpus en SVG, car c'est une copie de leurs images et non une mesure de leur mouvement, ce qui contredit la doctrine du projet (docs/ARCHITECTURE.md, section 2 : on mesure, on ne copie pas). Les vidéos du corpus se reproduisent par la mesure (coupes, rythme, palette, caméra, géométrie du texte, tempo) avec des visuels ORIGINAUX de même géométrie, comme motion-opus. Le tracé (motion/htmlvec.py) reste un outil pour le matériel de Matthieu. Ni les images ni les pistes audio d'une référence n'entrent dans une sauvegarde cloud : motion-projects et motion-bank sont retirés des sources Assets du projet. (16 October 2026) (16 October 2026, 08:36:50 +0200)
+
+## 16 October 2026, 12:27:19 +0200 : Standing rule
+
+<!-- feedback-event:b576970ccd75c1ae41c4fed0613250bd5b64a180c775e74a50395f58074ea326 (16 October 2026, 12:27:19 +0200) -->
+- Project: zenray-motion-design; kind: rule. (16 October 2026, 12:27:19 +0200)
+
+> 16 October 2026 (mots de Matthieu, dictée corrigée en grammaire seule) : on reproduit UNIQUEMENT les assets au premier plan, JAMAIS les images de fond, JAMAIS les visages, jamais une image qui nécessiterait une génération par IA ; on ne fait que ce que le code HTML / motion peut animer (formes vectorielles, texte, cartes, graphiques, interfaces). Sélection du corpus, nouvelle règle : les vidéos de https://whatships.com/videos/<nom>/ en vecteur animé simple, une à la fois ; agentplay en premier, claudia en deuxième (2/4), 2 autres à venir de Matthieu. (16 October 2026) (16 October 2026, 12:27:19 +0200)
+
+## 16 October 2026, 12:31:58 +0200 : Standing rule
+
+<!-- feedback-event:381bbfc39eae4e5c38ef9a03263dcf074401dd10a71b097306b7616a49b26c7c (16 October 2026, 12:31:58 +0200) -->
+- Project: zenray-motion-design; kind: rule. (16 October 2026, 12:31:58 +0200)
+
+> 16 October 2026 : sélection whatships.com : 1 agentplay (en cours), 2 claudia, 3 factory-environments (https://whatships.com/videos/factory-environments/), 4 à venir. Règle répétée par Matthieu : seulement les assets textuels et graphiques au premier plan, jamais l'arrière-plan ni les images ; viser les règles de base d'un motion UI réussi. (16 October 2026) (16 October 2026, 12:31:58 +0200)
