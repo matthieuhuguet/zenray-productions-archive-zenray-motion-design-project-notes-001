@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-16T13:11:08.015Z",
+ "scannedAt": "2026-10-16T13:47:09.462Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 2526,
-   "work": 582,
+   "lines": 2591,
+   "work": 604,
    "prompts": 9,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-16T13:09:49.353Z",
+   "last": "2026-10-16T13:46:39.140Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-16T13:10:15.314Z",
-   "bytes": 22321,
+   "updatedAt": "2026-10-16T13:46:57.443Z",
+   "bytes": 22323,
    "boundProject": null
   },
   {
