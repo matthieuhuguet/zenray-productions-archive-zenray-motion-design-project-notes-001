@@ -11974,3 +11974,10 @@
 - Project: zenray-motion-design; kind: log. (16 October 2026, 14:03:47 +0200)
 
 > 16 October 2026, validation de Matthieu : « c'est parfait, exactement ce que je voulais » sur les 4 reproductions whatships (agentplay, claudia, factory-environments, cinematic-shot) et les motions opus. Il aime que seul le premier plan soit conservé : assets graphiques et textuels, jamais le fond ni les images qui demanderaient une génération. Suite demandée : refaire la première sélection de 12 vidéos (hors corpus de 102, qui ne les contient pas) dans le même style, une à la fois ; les deux opus sont déjà faits. (16 October 2026, 14:03:47 +0200)
+
+## 16 October 2026, 15:09:35 +0200 : Standing rule
+
+<!-- feedback-event:234587f86243302f8314482ec8bb8d370d36f667c48f4ef6df070d73c5634d5d (16 October 2026, 15:09:35 +0200) -->
+- Project: zenray-motion-design; kind: rule. (16 October 2026, 15:09:35 +0200)
+
+> 16 October 2026 : le nouveau workflow de reproduction s'appelle Premier Plan Mesuré (identifiant ppm), skill zenray-motion-design ; l'ancien workflow (score 99,9) est rangé dans labs/ avec ses erreurs. Une vidéo à la fois : couper par la mesure (Scripts/FindCuts.py), ne garder que les assets graphiques et textuels du premier plan, gabarit paramétré, planche de comparaison, planche des quatre formats, puis onglets Validate, Not Validate, Threads et Previous Videos. Les films denses se calent par OCR sur les pixels du texte, pas par une planche espacée. (16 October 2026, 15:09:35 +0200)
