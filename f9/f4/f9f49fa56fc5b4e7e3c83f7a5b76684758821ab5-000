@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-16T11:37:06.425Z",
+ "scannedAt": "2026-10-16T11:51:08.235Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 2188,
-   "work": 492,
+   "lines": 2248,
+   "work": 511,
    "prompts": 8,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-16T11:36:23.161Z",
+   "last": "2026-10-16T11:47:45.948Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
-   "title": "Motion Design Vector and Music",
-   "updatedAt": "2026-10-16T11:36:24.000Z",
-   "bytes": 151841807,
+   "title": "3 motion design and editing video",
+   "updatedAt": "2026-10-16T11:48:01.437Z",
+   "bytes": 22316,
    "boundProject": null
   },
   {
@@ -111,8 +111,8 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-15T09:10:50.536Z",
-   "bytes": 35218006,
+   "updatedAt": "2026-10-16T11:51:06.534Z",
+   "bytes": 35739011,
    "boundProject": "zenray-japanese"
   },
   {
