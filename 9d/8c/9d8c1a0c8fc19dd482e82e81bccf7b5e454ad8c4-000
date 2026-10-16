@@ -11939,3 +11939,10 @@
 - Project: zenray-motion-design; kind: rule. (16 October 2026, 03:54:38 +0200)
 
 > 16 October 2026 (décision de Matthieu, remplace le calcul de nuit en lot de la règle du même jour) : le corpus de 102 se reproduit UNE vidéo à la fois, en séquence, chacune précisément comme motion-opus (éléments, courbes, texte, caméra) avec sa propre boucle de mesure, sans limite de temps ; quand le résultat est excellent on passe à la vidéo suivante. Pas de tracé vectoriel image par image : l'animation est du HTML éditable (modèles et paramètres). Ordre : reels d'artistes et de studios (65 à 80), puis jeux vidéo (09 à 16), puis le reste. Avancer vidéo par vidéo, jamais en parallèle ; pas d'itération sur 100 vidéos à la fois. (16 October 2026) (16 October 2026, 03:54:38 +0200)
+
+## 16 October 2026, 08:36:50 +0200 : Standing rule
+
+<!-- feedback-event:8c572ac9331f778b0a20f46b01621d8ebe44c01ca82c17c69df6f471398c68a8 (16 October 2026, 08:36:50 +0200) -->
+- Project: zenray-motion-design; kind: rule. (16 October 2026, 08:36:50 +0200)
+
+> 16 October 2026 (correction, remplace la méthode du tracé du même jour) : je cesse de tracer image par image les vidéos de référence du corpus en SVG, car c'est une copie de leurs images et non une mesure de leur mouvement, ce qui contredit la doctrine du projet (docs/ARCHITECTURE.md, section 2 : on mesure, on ne copie pas). Les vidéos du corpus se reproduisent par la mesure (coupes, rythme, palette, caméra, géométrie du texte, tempo) avec des visuels ORIGINAUX de même géométrie, comme motion-opus. Le tracé (motion/htmlvec.py) reste un outil pour le matériel de Matthieu. Ni les images ni les pistes audio d'une référence n'entrent dans une sauvegarde cloud : motion-projects et motion-bank sont retirés des sources Assets du projet. (16 October 2026) (16 October 2026, 08:36:50 +0200)
