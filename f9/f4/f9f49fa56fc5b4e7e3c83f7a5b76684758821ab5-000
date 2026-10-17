@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-17T14:58:33.796Z",
+ "scannedAt": "2026-10-17T20:16:36.319Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 2692,
-   "work": 638,
-   "prompts": 10,
+   "lines": 2780,
+   "work": 656,
+   "prompts": 11,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-17T14:58:14.253Z",
+   "last": "2026-10-17T20:16:10.680Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-17T14:58:22.214Z",
-   "bytes": 22317,
+   "updatedAt": "2026-10-17T20:16:26.838Z",
+   "bytes": 252317566,
    "boundProject": null
   },
   {
@@ -111,8 +111,8 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-16T12:40:09.850Z",
-   "bytes": 38928540,
+   "updatedAt": "2026-10-17T20:16:33.587Z",
+   "bytes": 39065254,
    "boundProject": "zenray-japanese"
   },
   {
@@ -126,8 +126,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "Conversation Gemini d497c75f",
-   "updatedAt": "2026-10-13T18:55:41.045Z",
+   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
+   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -142,8 +142,8 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "Conversation Gemini e5ad7aef",
-   "updatedAt": "2026-10-13T10:11:02.705Z",
+   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
+   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
    "bytes": 2293760,
    "boundProject": null
   },
