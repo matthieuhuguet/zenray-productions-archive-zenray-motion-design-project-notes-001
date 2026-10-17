@@ -11995,3 +11995,17 @@
 - Project: zenray-motion-design; kind: rule. (17 October 2026, 16:58:14 +0200)
 
 > Yawen Visual Designer : la police du titre est Vogun Medium (étoile à quatre branches entre les deux mots), pas InstrumentSerif ; ligne marketing en Vogun Regular. Mesuré 0,871 vers 0,931 le 17 October 2026. (17 October 2026, 16:58:14 +0200)
+
+## 17 October 2026, 22:18:11 +0200 : Log
+
+<!-- feedback-event:48cedbfb9c65a8d2336f2fba242460c86ce1a8abb71a264d35b52b5c082aec99 (17 October 2026, 22:18:11 +0200) -->
+- Project: zenray-motion-design; kind: log. (17 October 2026, 22:18:11 +0200)
+
+> 17 October 2026, prompt : Zhong Kui Black Myth Wukong, itérer proprement sur la version existante ; idée de Matthieu : décalquer la police pour la reproduire au pixel, puis créer une police dans la même direction artistique pour rester procédural ; ajouter au skill et aux rules SEULEMENT après sa validation de la feuille de police et du visuel motion. Fait : décalque potrace (Scripts/ZhongKuiTrace.py), police ZhongKui Brush (zs-templates-brushfont-1.js, IoU 0,77 à 0,92 par lettre), visuel bmw-zhong-kui-ppm (titre 0,961 police, 0,999 décalque), planche /Users/zenray/.claude/tmp/tmp-zenray-motion-design/zhongkui-font/FontSheet.html. En attente de validation, rien ajouté au skill ni aux rules. (17 October 2026, 22:18:11 +0200)
+
+## 17 October 2026, 22:20:28 +0200 : Log
+
+<!-- feedback-event:a320e1d50505d37788f6cde621c386c398e47cecfcc2ad56e15c21bdd1a4d0de (17 October 2026, 22:20:28 +0200) -->
+- Project: zenray-motion-design; kind: log. (17 October 2026, 22:20:28 +0200)
+
+> 17 October 2026, correction de Matthieu : le but était un motion d'apparition (pas seulement la police et le visuel). Ajout de l'apparition brush : chaque trait de la police est révélé le long de sa ligne centrale, traits dans l'ordre, lettres l'une après l'autre, lignes l'une après l'autre ; scène 1 de bmw-zhong-kui-ppm en brush, scènes 2 et 3 en ink et zoom. Mode décalque : pas de squelette, donc balayage à la place. (17 October 2026, 22:20:28 +0200)

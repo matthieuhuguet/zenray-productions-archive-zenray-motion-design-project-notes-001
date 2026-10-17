@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-17T20:16:36.319Z",
+ "scannedAt": "2026-10-17T20:33:36.396Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 2780,
-   "work": 656,
+   "lines": 2831,
+   "work": 662,
    "prompts": 11,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-17T20:16:10.680Z",
+   "last": "2026-10-17T20:33:05.958Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-17T20:16:26.838Z",
-   "bytes": 252317566,
+   "updatedAt": "2026-10-17T20:33:05.958Z",
+   "bytes": 259925534,
    "boundProject": null
   },
   {
@@ -111,8 +111,8 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-17T20:16:33.587Z",
-   "bytes": 39065254,
+   "updatedAt": "2026-10-17T20:24:20.808Z",
+   "bytes": 39628303,
    "boundProject": "zenray-japanese"
   },
   {
