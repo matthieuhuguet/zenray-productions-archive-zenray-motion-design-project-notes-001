@@ -12009,3 +12009,24 @@
 - Project: zenray-motion-design; kind: log. (17 October 2026, 22:20:28 +0200)
 
 > 17 October 2026, correction de Matthieu : le but était un motion d'apparition (pas seulement la police et le visuel). Ajout de l'apparition brush : chaque trait de la police est révélé le long de sa ligne centrale, traits dans l'ordre, lettres l'une après l'autre, lignes l'une après l'autre ; scène 1 de bmw-zhong-kui-ppm en brush, scènes 2 et 3 en ink et zoom. Mode décalque : pas de squelette, donc balayage à la place. (17 October 2026, 22:20:28 +0200)
+
+## 17 October 2026, 23:17:08 +0200 : Standing rule
+
+<!-- feedback-event:d25ab364f0c4ff1fdcf1352ad765df04a92e9800c6fafc4ac0eea95b3cafe3cb (17 October 2026, 23:17:08 +0200) -->
+- Project: zenray-motion-design; kind: rule. (17 October 2026, 23:17:08 +0200)
+
+> 17 October 2026 : un lettrage au style marqué dans une image se traite en deux étages et on ne s'arrête qu'à 0,999 de DIoU (peu importe le temps) : (1) le décalque au pixel par potrace, (2) une police procédurale calée sur le décalque, chaque point de squelette portant sa largeur gauche et sa largeur droite. Méthode et scripts dans le skill zenray-motion-design, section « Lettrage décalqué puis police procédurale ». (17 October 2026, 23:17:08 +0200)
+
+## 17 October 2026, 23:17:08 +0200 : Standing rule
+
+<!-- feedback-event:23d8352c1b677910c2c09198070a37418cec9e21ecb3d955088a89c41dc50d3a (17 October 2026, 23:17:08 +0200) -->
+- Project: zenray-motion-design; kind: rule. (17 October 2026, 23:17:08 +0200)
+
+> 17 October 2026 : l'apparition d'un lettrage est un pinceau qui l'écrit à vitesse constante le long des traits (appearance brush), jamais des paliers par trait ou par lettre ; la composition tenue à la fin doit être exactement celle de la référence (mesurer après la fin de l'écriture). (17 October 2026, 23:17:08 +0200)
+
+## 17 October 2026, 23:17:08 +0200 : Standing rule
+
+<!-- feedback-event:47fef8f472f10de05423e145daec67b068f1ff19e4dc2213ab6443df00526f52 (17 October 2026, 23:17:08 +0200) -->
+- Project: zenray-motion-design; kind: rule. (17 October 2026, 23:17:08 +0200)
+
+> 17 October 2026 : une image collée dans la conversation et absente du disque se récupère dans la transcription JSONL de la session (base64) ; ne jamais relancer IngestStills après un décalque (il réécrit l'image à 1920 de large et décale tous les cadres). (17 October 2026, 23:17:08 +0200)
