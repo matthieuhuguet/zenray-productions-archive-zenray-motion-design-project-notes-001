@@ -12030,3 +12030,10 @@
 - Project: zenray-motion-design; kind: rule. (17 October 2026, 23:17:08 +0200)
 
 > 17 October 2026 : une image collée dans la conversation et absente du disque se récupère dans la transcription JSONL de la session (base64) ; ne jamais relancer IngestStills après un décalque (il réécrit l'image à 1920 de large et décale tous les cadres). (17 October 2026, 23:17:08 +0200)
+
+## 17 October 2026, 23:25:10 +0200 : Standing rule
+
+<!-- feedback-event:02f439b834f896c99964826ee81f405876f77029cac0f8898caae10c4677ab56 (17 October 2026, 23:25:10 +0200) -->
+- Project: zenray-motion-design; kind: rule. (17 October 2026, 23:25:10 +0200)
+
+> 17 October 2026, correction de Matthieu (en colère, à juste titre) : le projet Zhong Kui s'ouvrait dans l'éditeur sans texte ni couleur visibles, alors que l'éditabilité est le but de l'app. Règle : tout projet livré porte de vraies valeurs dans ses scènes (textes, couleurs, nombres) et se vérifie dans l'éditeur (texte et couleurs visibles, modifiables, le rendu bouge) avant d'annoncer qu'il est prêt. (17 October 2026, 23:25:10 +0200)
