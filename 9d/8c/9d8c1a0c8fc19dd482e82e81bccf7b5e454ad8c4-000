@@ -12156,3 +12156,10 @@
 - Project: zenray-motion-design; kind: prompt. (18 October 2026, 21:13:49 +0200)
 
 > Les motions Red Dead, Ghost of Yotei (x2), League of Legends, Inoxtag 01 sont quasi impossibles à modifier ; Inoxtag 02, 03 et Nolan 01 : design bravo mais pas assez procédural. Il doit y avoir un problème dans le code de chaque motion. Je reconfirme chaque motion une fois corrigé ; ensuite seulement le bug ou le concept clé de chacun se note dans le skill (jamais avant ma confirmation). (18 October 2026, 21:13:49 +0200)
+
+## 18 October 2026, 21:56:53 +0200 : Prompt
+
+<!-- feedback-event:74d954b0a95635bbd46f77a380e115822d5b8e5a92abf2abb486cf3d95121047 (18 October 2026, 21:56:53 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (18 October 2026, 21:56:53 +0200)
+
+> Inoxtag 01 modifié en ZENRAY reste cassé : on dirait que l'édition ne prend pas la police personnalisée, ou peine sur l'échelle et le x y, le texte est élargi, c'est trop bizarre (captures comparées). En revanche segmenter chaque élément pour le modifier directement est beaucoup mieux, bravo. Mais on ne peut toujours pas le modifier proprement, procéduralement : continuer d'itérer et de trouver le bug. (18 October 2026, 21:56:53 +0200)
