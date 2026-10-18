@@ -12044,3 +12044,31 @@
 - Project: zenray-motion-design; kind: prompt. (18 October 2026, 10:22:31 +0200)
 
 > 18 October 2026, prompt de Matthieu : (1) Zhong Kui seulement : l'animation doit être un pinceau continu, qui ne se soulève que pour changer de trait, lettre par lettre avant la suivante, jamais une lettre qui apparaît d'un coup ; courbe : micro-hésitation au contact (0 à 10 % du temps), puis jaillissement (75 % de la distance en un éclair), puis freinage doux en fin de trait, type cubic-bezier(0.16, 1, 0.3, 1) à vérifier ou ajuster. (2) les 3 lignes de texte procédurales doivent être centrées (la ligne du milieu d'un texte modifié ne l'était pas) ; à l'avenir chaque motion doit aligner le texte modifié selon sa propre logique (Redécouvrir Kyushu : en haut à gauche, pas au centre). (3) dans l'app, une bascule animation originale / design personnalisé. (4) itérer un par un sur les autres images fixes pour viser 0,999 : Bleach, Ichiban Japan, Paget Character Concept, Pale Raven's Perch, bandeaux de phase Fire Emblem (complètement cassé, bien comprendre la référence), Yawen, Paget Indiana Jones. (18 October 2026, 10:22:31 +0200)
+
+## 18 October 2026, 10:40:43 +0200 : Standing rule
+
+<!-- feedback-event:30b5b08878d70b75adbbc56c6fcf8c3d771d0fd0ebb81457312a7b859b82dffc (18 October 2026, 10:40:43 +0200) -->
+- Project: zenray-motion-design; kind: rule. (18 October 2026, 10:40:43 +0200)
+
+> 18 October 2026 : l'apparition d'un lettrage est un pinceau qui écrit lettre par lettre, courbe micro-hésitation puis jaillissement (cubic-bezier(0.16, 1, 0.3, 1)) puis freinage doux, levé seulement entre traits (Zhong Kui). (18 October 2026, 10:40:43 +0200)
+
+## 18 October 2026, 10:40:44 +0200 : Standing rule
+
+<!-- feedback-event:df5f61990157ade70545348b1ffedbc5a01ae460ed0ab3a82254dafebb14124a (18 October 2026, 10:40:44 +0200) -->
+- Project: zenray-motion-design; kind: rule. (18 October 2026, 10:40:44 +0200)
+
+> 18 October 2026 : chaque visuel fixe a une bascule original (décalque de la référence, au moins 0,99) ou custom (procédural éditable), et un texte modifié s'aligne selon la logique propre du visuel (centré pour Zhong Kui, Yawen, phases, Indiana Jones ; en haut à gauche pour Kyushu, Bleach, Paget, Pale Raven), jamais « tout au centre » par défaut. (18 October 2026, 10:40:44 +0200)
+
+## 18 October 2026, 10:53:18 +0200 : Standing rule
+
+<!-- feedback-event:82684717ab2b5dd32d0abd8582dc19dbbaa60a32736b1a9c6c094801c9f4e322 (18 October 2026, 10:53:18 +0200) -->
+- Project: zenray-motion-design; kind: rule. (18 October 2026, 10:53:18 +0200)
+
+> 18 October 2026, régression signalée par Matthieu (capture de Validate) : les visuels refaits par décalque étaient crantés, flous, tronqués (mot géant de Bleach coupé, lettres de Yawen en escalier, pied de page illisible, texte de Kyushu en morceaux, bandeaux de phase plats) alors que les scores de recouvrement étaient à 0,99 à 1,00. Règle : tous les assets graphiques d'un motion sont PROPRES : jamais flous, jamais coupés, jamais pixélisés ni crantés. Un score de masque n'est PAS la qualité : un masque au seuil dur amincit les traits, coupe aux bords de sa région et recopie le crénelage. Avant de dire qu'un visuel est refait : comparer le résultat final à la référence EN PLEIN FORMAT, par recadrages côte à côte, élément par élément (bords lisses, graisse égale, rien de coupé par une région, couleur juste), et ne rien annoncer sans l'avoir regardé. Être plus précautionneux avec les retours actuels de Matthieu : une régression par rapport à la version précédente est une faute plus grave qu'un chiffre plus bas. (18 October 2026, 10:53:18 +0200)
+
+## 18 October 2026, 10:53:18 +0200 : Prompt
+
+<!-- feedback-event:c865b9bccacaaea33a8b4c5172c1d6f44f21bc6604032e0d0ce3b3aad171e130 (18 October 2026, 10:53:18 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (18 October 2026, 10:53:18 +0200)
+
+> 18 October 2026 : prompt de Matthieu après la régression : tous les visuels sont à recommencer, propres ; noter la règle de précaution dans les rules ; comparer résultat final et référence ; ne plus jamais livrer de visuel flou, coupé ou pixélisé. (18 October 2026, 10:53:18 +0200)
