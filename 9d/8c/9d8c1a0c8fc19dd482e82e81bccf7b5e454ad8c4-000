@@ -12037,3 +12037,10 @@
 - Project: zenray-motion-design; kind: rule. (17 October 2026, 23:25:10 +0200)
 
 > 17 October 2026, correction de Matthieu (en colère, à juste titre) : le projet Zhong Kui s'ouvrait dans l'éditeur sans texte ni couleur visibles, alors que l'éditabilité est le but de l'app. Règle : tout projet livré porte de vraies valeurs dans ses scènes (textes, couleurs, nombres) et se vérifie dans l'éditeur (texte et couleurs visibles, modifiables, le rendu bouge) avant d'annoncer qu'il est prêt. (17 October 2026, 23:25:10 +0200)
+
+## 18 October 2026, 10:22:31 +0200 : Prompt
+
+<!-- feedback-event:f958f640339fb142ca60f5e61457864be44ce58a16dc8caf7cfc720d9a7f6031 (18 October 2026, 10:22:31 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (18 October 2026, 10:22:31 +0200)
+
+> 18 October 2026, prompt de Matthieu : (1) Zhong Kui seulement : l'animation doit être un pinceau continu, qui ne se soulève que pour changer de trait, lettre par lettre avant la suivante, jamais une lettre qui apparaît d'un coup ; courbe : micro-hésitation au contact (0 à 10 % du temps), puis jaillissement (75 % de la distance en un éclair), puis freinage doux en fin de trait, type cubic-bezier(0.16, 1, 0.3, 1) à vérifier ou ajuster. (2) les 3 lignes de texte procédurales doivent être centrées (la ligne du milieu d'un texte modifié ne l'était pas) ; à l'avenir chaque motion doit aligner le texte modifié selon sa propre logique (Redécouvrir Kyushu : en haut à gauche, pas au centre). (3) dans l'app, une bascule animation originale / design personnalisé. (4) itérer un par un sur les autres images fixes pour viser 0,999 : Bleach, Ichiban Japan, Paget Character Concept, Pale Raven's Perch, bandeaux de phase Fire Emblem (complètement cassé, bien comprendre la référence), Yawen, Paget Indiana Jones. (18 October 2026, 10:22:31 +0200)
