@@ -12100,3 +12100,10 @@
 - Project: zenray-motion-design; kind: rule. (18 October 2026, 12:01:51 +0200)
 
 > 18 October 2026, Matthieu : certaines animations sont bonnes mais il reste des crops, vérifier les frames et livrer des animations parfaites. Trouvé et corrigé : titre de Zhong Kui absent des scènes 2 et 3 (ids de masques identiques entre scènes), éclat parasite devant CHARACTER (Paget). Règle : vérifier toutes les scènes et tous les formats avec CropCheck.py avant d'annoncer. (18 October 2026, 12:01:51 +0200)
+
+## 18 October 2026, 19:40:12 +0200 : Prompt
+
+<!-- feedback-event:28148758d1e748467aea869be387598ce64d9bef08280b3f09ba48eaa21198a8 (18 October 2026, 19:40:12 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (18 October 2026, 19:40:12 +0200)
+
+> 18 October 2026, prompt de Matthieu : nouveau motion à recréer, logo Red Dead Redemption II, par police personnalisée plus stroke, sans le cowboy, fond rouge relevé au color picker, trois animations, ajouté à Validate. Fait : projet rdr2-ppm (lettres isolées, plaque tracée, rouge #ca0512 pipette, scores 1,000 / 1,000 / 0,999), trois apparitions letters, wipe, pop, mode custom. (18 October 2026, 19:40:12 +0200)
