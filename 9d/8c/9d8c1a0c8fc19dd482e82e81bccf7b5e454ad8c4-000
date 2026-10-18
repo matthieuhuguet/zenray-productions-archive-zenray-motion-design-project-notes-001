@@ -12208,3 +12208,10 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (18 October 2026, 23:00:37 +0200)
 
 > Skill zenray-motion-design mis a jour (moteur de lignes puis lecture au survol) et synchronise. Lecture au survol et clavier dans lapp Motion : commit fca0da8 du depot ZenRayMotionDesign. Verifie par node (logique, mutants) et au navigateur interne (editeur, galerie, Validate, Previous Videos). Non automatise : le branchement a lecran. Prochain : essai de Matthieu dans la vraie fenetre et reglage du maintien. (18 October 2026, 23:00:37 +0200)
+
+## 19 October 2026, 01:39:24 +0200 : Iteration
+
+<!-- feedback-event:fe1f695dbb215e01728ac1c4b45c85f4245da9912d6e87eb2e9ff59b154dfc93 (19 October 2026, 01:39:24 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (19 October 2026, 01:39:24 +0200)
+
+> 19 October 2026 : dissolution en masques cuits (pas de filtre), cadrage mesuré des cartes en 1:1/4:5/9:16, dissolution inversée en sortie (curseur dissolveOut) (19 October 2026, 01:39:24 +0200)
