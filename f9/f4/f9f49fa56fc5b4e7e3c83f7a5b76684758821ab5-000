@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-18T22:18:32.055Z",
+ "scannedAt": "2026-10-18T22:35:35.660Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -111,8 +111,8 @@
    "provider": "codex",
    "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
    "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-17T21:29:11.125Z",
-   "bytes": 41042117,
+   "updatedAt": "2026-10-18T22:34:26.136Z",
+   "bytes": 41044233,
    "boundProject": "zenray-japanese"
   },
   {
@@ -303,8 +303,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-18T22:17:48.048Z",
-   "bytes": 37109,
+   "updatedAt": "2026-10-18T22:35:26.972Z",
+   "bytes": 68888948,
    "boundProject": null
   },
   {
