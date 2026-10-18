@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-18T18:28:54.921Z",
+ "scannedAt": "2026-10-18T18:34:55.409Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 3292,
-   "work": 722,
+   "lines": 3307,
+   "work": 724,
    "prompts": 14,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-18T18:28:29.015Z",
+   "last": "2026-10-18T18:32:59.094Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-18T18:28:29.266Z",
-   "bytes": 363416944,
+   "updatedAt": "2026-10-18T18:33:12.776Z",
+   "bytes": 22316,
    "boundProject": null
   },
   {
@@ -303,8 +303,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-18T18:25:54.461Z",
-   "bytes": 36754,
+   "updatedAt": "2026-10-18T18:34:29.443Z",
+   "bytes": 36780,
    "boundProject": null
   },
   {

@@ -58,3 +58,6 @@
 
 ## 18 October 2026 : titre Ghost of Yōtei, pétales de vent (18 October 2026)
 - 18 October 2026 : projet `ghost-of-yotei-title-apparition-01-ppm` (layout `ytitle`, trois apparitions petals-sweep, petals-gather, petals-bloom) ajouté à Validate ; méthode dans le skill `zenray-motion-design`, section du 18 October 2026. (18 October 2026)
+
+## 18 October 2026 : cinq cartes titre à une apparition (18 October 2026)
+- 18 October 2026 : `league-of-legends-cinematic-01-ppm`, `inoxtag-collection-01-ppm`, `-02-ppm`, `-03-ppm`, `christopher-nolan-collection-01-ppm` ajoutés à Validate ; mise en page générique `cardLayout`, données `zs-templates-card-*-1.js`, police à blocs de secours ; méthode dans le skill `zenray-motion-design`, section du 18 October 2026. (18 October 2026)
