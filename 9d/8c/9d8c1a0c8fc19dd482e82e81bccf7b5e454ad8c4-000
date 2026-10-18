@@ -12079,3 +12079,10 @@
 - Project: zenray-motion-design; kind: rule. (18 October 2026, 11:11:47 +0200)
 
 > 18 October 2026, Matthieu : Kyushu et bandeaux de phase à refaire car leurs masques de derrière étaient cassés ; méthode demandée : isoler les masques, les recréer procéduralement, isoler la police. Règle : pour un sticker ou un bandeau, isoler les lettres, recréer contour, bordure, ombre, encre et fumée en procédural paramétrable, jamais décalquer la scène entière (StickerTrace.py, PhaseTrace.py). (18 October 2026, 11:11:47 +0200)
+
+## 18 October 2026, 11:39:21 +0200 : Standing rule
+
+<!-- feedback-event:72ad04b2b8588e747795275db7990a5bfb9cddabfcad8e5cc0b7981abf16cf26 (18 October 2026, 11:39:21 +0200) -->
+- Project: zenray-motion-design; kind: rule. (18 October 2026, 11:39:21 +0200)
+
+> 18 October 2026, Matthieu : bandeaux de phase Fire Emblem, ça ne marche pas : garder uniquement le texte en police procédurale sur un fond sombre, retirer le masque du fond. Fait (PlayfairDisplay italique, couleurs mesurées, lueur, tuile sombre). Règle : un élément qui ne se reproduit pas proprement après deux méthodes est retiré, pas livré sale. (18 October 2026, 11:39:21 +0200)
