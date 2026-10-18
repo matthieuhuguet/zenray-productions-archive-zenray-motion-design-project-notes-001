@@ -12114,3 +12114,10 @@
 - Project: zenray-motion-design; kind: prompt. (18 October 2026, 19:49:07 +0200)
 
 > 18 October 2026, prompt de Matthieu : nouveau motion Ghost of Yotei Complete Edition à recréer par police personnalisée plus stroke, sans personnage, seulement feuilles dorées, couleurs au pipette pour chaque élément, trois animations d'apparition du texte, ajouté à Validate, tout procédural. Fait : ghost-of-yotei-ppm (couleurs pipette, 35 feuilles ajustées et redessinées, logo isolé, trait de pinceau, textes), erreurs payées : bouton pris pour une feuille, dérive multipliée par l'échelle. (18 October 2026, 19:49:07 +0200)
+
+## 18 October 2026, 19:52:29 +0200 : Standing rule
+
+<!-- feedback-event:38bd4f25ab01bc7a0067fa9fb9023308ae1736b89c010d600dc7d3ba69f3075b (18 October 2026, 19:52:29 +0200) -->
+- Project: zenray-motion-design; kind: rule. (18 October 2026, 19:52:29 +0200)
+
+> 18 October 2026, Matthieu : la première animation (logo RDR II) ne marche pas dès qu'on édite un texte, ça casse le design ; fixer l'aspect procédural pour que les modifications soient impeccables. Corrigé : recomposition procédurale du logo (lettres de la police, plaque et II qui suivent le texte), titre Yawen centré, ligne GHOST éditable. Règle : tester trois variantes de texte modifié avant d'annoncer. (18 October 2026, 19:52:29 +0200)
