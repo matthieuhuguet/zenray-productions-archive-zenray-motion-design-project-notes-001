@@ -12200,3 +12200,11 @@
 - Project: zenray-motion-design; kind: rule. (18 October 2026, 22:44:37 +0200)
 
 > Une ligne de texte modifiée garde la taille et les proportions de ses lettres : sa place est 2,2 fois sa largeur d'origine, bornée par le cadre et les voisins, condensation à 100 % par défaut, réduction uniforme au-delà. Contrôler chaque carte avec moins, autant, une et deux lettres de plus (KITAE, ZENRA, ZENRAY) et sonder chaque curseur (Scripts/ProbeEngine.py). (18 October 2026, 22:44:37 +0200)
+
+## 18 October 2026, 23:00:37 +0200 : Iteration
+
+<!-- feedback-event:1878932a2718a8caab5b398027af857b1dc50ec21a1610b8566be61efd1e8a60 (18 October 2026, 23:00:37 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (18 October 2026, 23:00:37 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (18 October 2026, 23:00:37 +0200)
+
+> Skill zenray-motion-design mis a jour (moteur de lignes puis lecture au survol) et synchronise. Lecture au survol et clavier dans lapp Motion : commit fca0da8 du depot ZenRayMotionDesign. Verifie par node (logique, mutants) et au navigateur interne (editeur, galerie, Validate, Previous Videos). Non automatise : le branchement a lecran. Prochain : essai de Matthieu dans la vraie fenetre et reglage du maintien. (18 October 2026, 23:00:37 +0200)
