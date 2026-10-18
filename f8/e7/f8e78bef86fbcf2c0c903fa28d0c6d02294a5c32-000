@@ -55,3 +55,6 @@
 - 18 October 2026 : chaque visuel fixe porte un réglage `design` (original ou custom). Original = décalque du premier plan de la référence par `Scripts/TraceStill.py` (données `motion/runtime/zs-templates-trace-*-1.js`) ; custom, ou texte modifié = recomposition procédurale alignée selon la logique du visuel (centré ou en haut à gauche). (18 October 2026)
 - 18 October 2026, scores de recouvrement (DIoU, mesurés sur les projets) : Bleach 0,999 ; Redécouvrir Kyushu 1,000 ; Paget Character Concept 1,000 ; Pale Raven's Perch 1,000 ; Yawen 0,999 ; Indiana Jones 1,000 ; Zhong Kui 0,997 ; bandeaux de phase Player 1,000, Enemy 0,999, Next Round 0,995. Les bandeaux de phase suivent désormais les trois images de référence. (18 October 2026)
 - 18 October 2026, reste à faire : charger les données décalquées à la demande (environ 2,5 Mo de JavaScript chargés avec chaque page) ; Next Round (peinture jaune 0,988) est le moins bon ; les arrière-plans photographiques ne sont toujours pas reproduits (règle de Matthieu). (18 October 2026)
+
+## 18 October 2026 : titre Ghost of Yōtei, pétales de vent (18 October 2026)
+- 18 October 2026 : projet `ghost-of-yotei-title-apparition-01-ppm` (layout `ytitle`, trois apparitions petals-sweep, petals-gather, petals-bloom) ajouté à Validate ; méthode dans le skill `zenray-motion-design`, section du 18 October 2026. (18 October 2026)
