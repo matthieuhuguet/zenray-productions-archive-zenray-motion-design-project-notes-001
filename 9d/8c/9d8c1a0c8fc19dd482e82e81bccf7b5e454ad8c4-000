@@ -12171,3 +12171,32 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (18 October 2026, 22:15:43 +0200)
 
 > Edition procedurale des huit visuels fixes : alphabets ajustes, police a blocs GHOST, moteur de lignes unique et curseurs generes (sondes un par un). Scores des originaux inchanges, variantes de texte modifie rendues, edition reelle verifiee dans lediteur. Commits 2563719 et 972d760 du depot ZenRayMotionDesign. Non verifie : jugement visuel de Matthieu. Prochain : sa confirmation motion par motion avant de noter les concepts cles dans le skill. (18 October 2026, 22:15:43 +0200)
+
+## 18 October 2026, 22:39:36 +0200 : Prompt
+
+<!-- feedback-event:ffd8c8aa99248d5182547300e008172c1c0c53b6d9d0aff36f169e7044409442 (18 October 2026, 22:39:36 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (18 October 2026, 22:39:36 +0200)
+
+> Presque bon, mais sur KITAE quand je passe à 6 lettres (ZENRAY) ça casse, alors que ZENRA fonctionne car il a 5 lettres comme KITAE : prévoir aussi ce cas de figure (un nombre de lettres différent de l'original). Ensuite je pense qu'on pourra valider l'ajout au skill. (18 October 2026, 22:39:36 +0200)
+
+## 18 October 2026, 22:42:44 +0200 : Iteration
+
+<!-- feedback-event:4340116c44d042c7229a2c19cc043459244ce417f3e9a2fffefe411503df2cb2 (18 October 2026, 22:42:44 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (18 October 2026, 22:42:44 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (18 October 2026, 22:42:44 +0200)
+
+> Cas des lettres en nombre different : ligne a place bornee par cadre et voisins, condensation desactivee par defaut, logo Red Dead rapetisse dun bloc, plaque elargie. Commit e51f7fd du depot ZenRayMotionDesign. Verifie par rendus de 3 a 11 lettres, edition reelle dans lediteur, scores des originaux inchanges, sondage des curseurs. Non verifie : jugement visuel de Matthieu. Prochain : sa validation puis ajout de la note au skill (brouillon dans tmp-zenray-motion-design). (18 October 2026, 22:42:44 +0200)
+
+## 18 October 2026, 22:44:37 +0200 : Prompt
+
+<!-- feedback-event:2ab22d3d442f9443c43d99289dfc96969f5e55349606efd8aa729f4ea31696f8 (18 October 2026, 22:44:37 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (18 October 2026, 22:44:37 +0200)
+
+> Parfait, grave tous ces enseignements dans le skill zenray-motion-design, tu as enfin réussi. Ensuite : dans l'app Motion, quand je passe le curseur sur la vidéo elle se lit ; espace = pause et lecture ; les flèches avancent image par image ; si je reste appuyé les images défilent rapidement. (18 October 2026, 22:44:37 +0200)
+
+## 18 October 2026, 22:44:37 +0200 : Standing rule
+
+<!-- feedback-event:733e715777f4c33e80905a808271f504a07218a99511fad5764803634d96e98f (18 October 2026, 22:44:37 +0200) -->
+- Project: zenray-motion-design; kind: rule. (18 October 2026, 22:44:37 +0200)
+
+> Une ligne de texte modifiée garde la taille et les proportions de ses lettres : sa place est 2,2 fois sa largeur d'origine, bornée par le cadre et les voisins, condensation à 100 % par défaut, réduction uniforme au-delà. Contrôler chaque carte avec moins, autant, une et deux lettres de plus (KITAE, ZENRA, ZENRAY) et sonder chaque curseur (Scripts/ProbeEngine.py). (18 October 2026, 22:44:37 +0200)
