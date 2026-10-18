@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-17T21:30:37.256Z",
+ "scannedAt": "2026-10-18T08:16:56.549Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -15,7 +15,7 @@
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-17T21:30:33.705Z",
+   "updatedAt": "2026-10-18T08:12:49.626Z",
    "bytes": 22375,
    "boundProject": null
   },
@@ -126,8 +126,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
-   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
+   "title": "Conversation Gemini d497c75f",
+   "updatedAt": "2026-10-13T18:55:41.045Z",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -142,9 +142,25 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
-   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
+   "title": "Conversation Gemini e5ad7aef",
+   "updatedAt": "2026-10-13T10:11:02.705Z",
    "bytes": 2293760,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 1,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-18T08:01:25.281Z",
+   "last": "2026-10-18T08:01:25.281Z",
+   "strength": "weak",
+   "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
+   "provider": "gemini",
+   "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
+   "bytes": 1245184,
    "boundProject": null
   },
   {
