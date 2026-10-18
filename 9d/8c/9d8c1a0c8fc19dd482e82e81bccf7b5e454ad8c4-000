@@ -12163,3 +12163,11 @@
 - Project: zenray-motion-design; kind: prompt. (18 October 2026, 21:56:53 +0200)
 
 > Inoxtag 01 modifié en ZENRAY reste cassé : on dirait que l'édition ne prend pas la police personnalisée, ou peine sur l'échelle et le x y, le texte est élargi, c'est trop bizarre (captures comparées). En revanche segmenter chaque élément pour le modifier directement est beaucoup mieux, bravo. Mais on ne peut toujours pas le modifier proprement, procéduralement : continuer d'itérer et de trouver le bug. (18 October 2026, 21:56:53 +0200)
+
+## 18 October 2026, 22:15:43 +0200 : Iteration
+
+<!-- feedback-event:2bf71b445216915b33ebb2a9817e0b3d1e5d7e9b088c31cd6a2686163c185b8c (18 October 2026, 22:15:43 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (18 October 2026, 22:15:43 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (18 October 2026, 22:15:43 +0200)
+
+> Edition procedurale des huit visuels fixes : alphabets ajustes, police a blocs GHOST, moteur de lignes unique et curseurs generes (sondes un par un). Scores des originaux inchanges, variantes de texte modifie rendues, edition reelle verifiee dans lediteur. Commits 2563719 et 972d760 du depot ZenRayMotionDesign. Non verifie : jugement visuel de Matthieu. Prochain : sa confirmation motion par motion avant de noter les concepts cles dans le skill. (18 October 2026, 22:15:43 +0200)
