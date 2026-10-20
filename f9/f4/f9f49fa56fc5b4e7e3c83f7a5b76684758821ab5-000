@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-20T16:26:43.235Z",
+ "scannedAt": "2026-10-20T16:44:28.163Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -152,6 +152,22 @@
    "lines": 2,
    "work": 1,
    "prompts": 0,
+   "first": "2026-10-20T16:30:56.748Z",
+   "last": "2026-10-20T16:30:58.632Z",
+   "strength": "weak",
+   "conversationId": "codex:01a15a23-1157-7ef3-83c9-9ce9461c3247",
+   "provider": "codex",
+   "sessionId": "01a15a23-1157-7ef3-83c9-9ce9461c3247",
+   "title": "Conversation codex 01a15a23",
+   "updatedAt": "2026-10-20T16:42:42.830Z",
+   "bytes": 11057009,
+   "boundProject": "zenray-progress"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 2,
+   "work": 1,
+   "prompts": 0,
    "first": "2026-10-19T15:44:22.895Z",
    "last": "2026-10-19T15:44:24.597Z",
    "strength": "weak",
@@ -207,8 +223,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T16:26:33.502Z",
-   "bytes": 260630655,
+   "updatedAt": "2026-10-20T16:42:01.392Z",
+   "bytes": 261151391,
    "boundProject": null
   },
   {
