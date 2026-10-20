@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-20T09:22:31.595Z",
+ "scannedAt": "2026-10-20T09:31:31.643Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -238,9 +238,9 @@
    "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "title": "2 louisiana bayou video",
-   "updatedAt": "2026-10-20T09:22:30.908Z",
-   "bytes": 223447687,
+   "title": "UV Methodology",
+   "updatedAt": "2026-10-20T09:30:52.842Z",
+   "bytes": 224194089,
    "boundProject": null
   },
   {
