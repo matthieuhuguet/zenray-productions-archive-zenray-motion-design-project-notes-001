@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-20T13:21:38.028Z",
+ "scannedAt": "2026-10-20T14:00:38.237Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -207,8 +207,8 @@
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology",
-   "updatedAt": "2026-10-20T13:21:30.661Z",
-   "bytes": 256079935,
+   "updatedAt": "2026-10-20T13:59:29.334Z",
+   "bytes": 256801999,
    "boundProject": null
   },
   {
