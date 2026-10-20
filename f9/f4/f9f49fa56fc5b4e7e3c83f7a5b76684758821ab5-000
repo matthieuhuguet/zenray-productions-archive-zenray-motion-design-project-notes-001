@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-20T11:14:34.223Z",
+ "scannedAt": "2026-10-20T11:24:33.720Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -216,6 +216,22 @@
    "lines": 13,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-18T08:34:57.561Z",
+   "last": "2026-10-20T11:19:38.176Z",
+   "strength": "weak",
+   "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
+   "provider": "claude",
+   "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
+   "title": "UV Methodology",
+   "updatedAt": "2026-10-20T11:24:27.791Z",
+   "bytes": 233767266,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 13,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-11T14:42:57.242Z",
    "last": "2026-10-11T19:04:58.673Z",
    "strength": "weak",
@@ -226,22 +242,6 @@
    "updatedAt": "2026-10-11T21:28:15.851Z",
    "bytes": 21082,
    "boundProject": "zenray-height"
-  },
-  {
-   "projectId": "zenray-motion-design",
-   "lines": 12,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-18T08:34:57.561Z",
-   "last": "2026-10-20T10:52:34.879Z",
-   "strength": "weak",
-   "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "provider": "claude",
-   "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "title": "UV Methodology",
-   "updatedAt": "2026-10-20T11:13:46.979Z",
-   "bytes": 233037795,
-   "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
