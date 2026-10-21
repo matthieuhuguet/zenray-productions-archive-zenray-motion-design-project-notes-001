@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-21T17:07:36.508Z",
+ "scannedAt": "2026-10-21T17:17:36.565Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 3656,
-   "work": 814,
+   "lines": 3671,
+   "work": 816,
    "prompts": 17,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-18T23:39:33.603Z",
+   "last": "2026-10-21T17:17:28.280Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-18T23:39:36.416Z",
-   "bytes": 22306,
+   "updatedAt": "2026-10-21T17:17:35.298Z",
+   "bytes": 397361920,
    "boundProject": null
   },
   {
@@ -207,8 +207,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T17:06:48.627Z",
-   "bytes": 345634897,
+   "updatedAt": "2026-10-21T17:16:24.668Z",
+   "bytes": 348232293,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -367,8 +367,8 @@
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
    "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T16:51:30.092Z",
-   "bytes": 38437,
+   "updatedAt": "2026-10-21T17:14:21.465Z",
+   "bytes": 38528,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {

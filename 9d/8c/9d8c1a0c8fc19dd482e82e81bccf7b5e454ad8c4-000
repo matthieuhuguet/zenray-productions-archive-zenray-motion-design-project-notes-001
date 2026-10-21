@@ -12215,3 +12215,10 @@
 - Project: zenray-motion-design; kind: iteration. (19 October 2026, 01:39:24 +0200)
 
 > 19 October 2026 : dissolution en masques cuits (pas de filtre), cadrage mesuré des cartes en 1:1/4:5/9:16, dissolution inversée en sortie (curseur dissolveOut) (19 October 2026, 01:39:24 +0200)
+
+## 21 October 2026, 19:09:23 +0200 : Prompt
+
+<!-- feedback-event:d51723da46f6edd253b09d1ee679c0dff56e3474cc9de24acdaa8dadb83af524 (21 October 2026, 19:09:23 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (21 October 2026, 19:09:23 +0200)
+
+> 21 October 2026 : « Optimise les performances de l'app notamment Validate qui lag énormément, run des bench, fluide 0.1 s, révise chaque motion pour qu'il soit fluide et procédural ; Inoxtag collection 03 lag, solution équivalente qui ne lag jamais, 60 Hz même sur CPU faible ; puis 3 mockups zenray-edit pour améliorer l'UI actuelle. » (21 October 2026, 19:09:23 +0200)
