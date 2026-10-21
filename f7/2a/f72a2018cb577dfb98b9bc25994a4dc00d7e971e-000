@@ -1,0 +1,10 @@
+<!doctype html>
+<!-- 21 October 2026: index of the three Motion Design UI mockups. FR : index des trois maquettes d'interface. -->
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Motion Design UI : 3 maquettes</title><link rel="stylesheet" href="_base.css">
+<style>body{padding:34px 28px;max-width:1180px;margin:auto}h1{font:400 28px var(--f-serif);margin-bottom:6px}p.l{color:var(--ink-2);margin-bottom:22px}.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:16px}a.c{display:grid;gap:8px;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:12px}a.c:hover{border-color:var(--accent)}a.c img{width:100%;border-radius:8px;border:1px solid var(--line)}a.c b{font:400 18px var(--f-serif)}</style></head><body>
+<h1>Motion Design : trois maquettes d'interface</h1><p class="l">Chacune part de l'interface actuelle (mêmes jetons, mêmes données) et se choisit seule ou se mélange. 21 October 2026.</p>
+<div class="g">
+<a class="c" href="MotionUI-A-Atelier.html"><img src="shot-A-Atelier.png" alt=""><b>A · Atelier</b><span class="hint">Un rail à gauche remplace les huit liens du haut, le transport flotte sous l'image, les scènes deviennent des pastilles sur la piste, l'inspecteur est à onglets.</span></a>
+<a class="c" href="MotionUI-B-ContactSheet.html"><img src="shot-B-ContactSheet.png" alt=""><b>B · Planche</b><span class="hint">Validate en planche-contact dense : filtres, barre de progression, tiroir de revue au clavier (V, R, flèches), fluidité mesurée par carte.</span></a>
+<a class="c" href="MotionUI-C-Inspector.html"><img src="shot-C-Inspector.png" alt=""><b>C · Inspecteur</b><span class="hint">Les réglages en panneau de type HDA : paliers 4, 8, 16, recherche, un point de retour par valeur, presets, aperçu vivant et budget d'image à 60 Hz.</span></a>
+</div></body></html>

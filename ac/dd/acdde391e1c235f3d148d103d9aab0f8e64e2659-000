@@ -1,0 +1,22 @@
+{
+  "date": "21 October 2026",
+  "slug": "motion-ui-mockups",
+  "folder": "2026-10-21-motion-ui-mockups",
+  "version": 1,
+  "title": "Motion Design : 3 maquettes d'UI (Atelier, Planche, Inspecteur)",
+  "module": "motion-design",
+  "assetsProject": "zenray-edit",
+  "project": "zenray-motion-design",
+  "status": "pending",
+  "atelier": "/Users/zenray/.claude/tmp/tmp-zenray-motion-design/ui-mockups-21-October-2026",
+  "files": [
+    "index.html",
+    "_base.css",
+    "shot-A-Atelier.png",
+    "shot-B-ContactSheet.png",
+    "shot-C-Inspector.png"
+  ],
+  "indexSha256": "de14655a96ffd33f5b0198c034f22aabccef5d4cb859fa129f25c4b8bfa39457",
+  "filedAt": "2026-10-21T17:35:10.163Z",
+  "note": null
+}

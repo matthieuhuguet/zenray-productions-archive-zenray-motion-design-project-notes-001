@@ -12222,3 +12222,10 @@
 - Project: zenray-motion-design; kind: prompt. (21 October 2026, 19:09:23 +0200)
 
 > 21 October 2026 : « Optimise les performances de l'app notamment Validate qui lag énormément, run des bench, fluide 0.1 s, révise chaque motion pour qu'il soit fluide et procédural ; Inoxtag collection 03 lag, solution équivalente qui ne lag jamais, 60 Hz même sur CPU faible ; puis 3 mockups zenray-edit pour améliorer l'UI actuelle. » (21 October 2026, 19:09:23 +0200)
+
+## 21 October 2026, 19:35:21 +0200 : Iteration
+
+<!-- feedback-event:e1274875f8fc794b833b5ddd0dd48919209ade2d0619ffa0702ac778c4a2a936 (21 October 2026, 19:35:21 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (21 October 2026, 19:35:21 +0200)
+
+> 21 October 2026 : fluidité 60 Hz, 3 bancs (PerfBench, PerfValidate, PerfValidatePlay) ; Zhong Kui 88 à 16 ms, somme des 35 motions 181 à 96 ms (proxy logiciel) ; dissolution sur enveloppeur serré ; 3 maquettes UI rangées dans designs/ (motion-ui-mockups). (21 October 2026, 19:35:21 +0200)

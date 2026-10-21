@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-21T17:34:36.773Z",
+ "scannedAt": "2026-10-21T17:40:36.739Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 3758,
-   "work": 849,
+   "lines": 3781,
+   "work": 854,
    "prompts": 17,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-21T17:34:35.163Z",
+   "last": "2026-10-21T17:35:34.358Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-21T17:34:35.163Z",
-   "bytes": 398997519,
+   "updatedAt": "2026-10-21T17:35:38.763Z",
+   "bytes": 22332,
    "boundProject": null
   },
   {
@@ -197,18 +197,18 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 29,
+   "lines": 30,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-18T08:34:57.561Z",
-   "last": "2026-10-21T16:45:39.893Z",
+   "last": "2026-10-21T17:35:29.732Z",
    "strength": "weak",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T17:34:20.364Z",
-   "bytes": 348961909,
+   "updatedAt": "2026-10-21T17:40:34.162Z",
+   "bytes": 349203018,
    "boundProject": "louisiana-bayou"
   },
   {

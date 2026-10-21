@@ -1,0 +1,29 @@
+/* 21 October 2026: shared tokens of the three Motion Design UI mockups, taken from the real app (motion/web/app.css) so a choice moves straight into the code.
+   FR : jetons communs des trois maquettes, ceux de l'application. Body and numbers AnthropicSerif Regular 400 (rule of 21 October 2026), chrome InterVariable 400, values AnthropicMono. */
+@font-face { font-family: 'InterVariable'; src: url(fonts/InterVariable.ttf); font-weight: 100 900; }
+@font-face { font-family: 'AnthropicSerif'; src: url(fonts/AnthropicSerif-Regular.ttf); font-weight: 400; }
+@font-face { font-family: 'AnthropicMono'; src: url(fonts/AnthropicMono-Regular.ttf); font-weight: 400; }
+:root {
+  --f-sans: 'InterVariable', 'Hiragino Sans W4', sans-serif; --f-serif: 'AnthropicSerif', serif; --f-mono: 'AnthropicMono', ui-monospace, monospace;
+  --bg: #f4f3ee; --surface: #ffffff; --surface-2: #f8f7f3; --line: #e3e1d8; --ink: #1b1b19; --ink-2: #6f6d66; --accent: #e2552f; --accent-ink: #fff; --focus: #2f6fe4; --ok: #4f9d2a; --warn: #d99a1c;
+  --radius: 10px; --gap: 12px; --ui: 13px; --stage: #0f0f0e;
+}
+:root[data-theme="dark"] { --bg: #141413; --surface: #1d1d1b; --surface-2: #232321; --line: #33332f; --ink: #f1f0ea; --ink-2: #a3a199; }
+* { box-sizing: border-box; margin: 0; }
+html, body { height: 100%; }
+body { background: var(--bg); color: var(--ink); font: 400 var(--ui)/1.4 var(--f-sans); -webkit-font-smoothing: antialiased; }
+button, select, input { font: inherit; color: inherit; }
+button { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 6px 12px; cursor: pointer; }
+button:hover { border-color: var(--ink-2); }
+button.primary { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+button.ghost { background: transparent; border-color: transparent; }
+button.ghost:hover { background: color-mix(in srgb, var(--ink) 6%, transparent); }
+.num { font-family: var(--f-serif); font-variant-numeric: tabular-nums; }
+.mono { font-family: var(--f-mono); }
+.hint { color: var(--ink-2); font-size: 12px; }
+.pill { border: 1px solid var(--line); border-radius: 999px; padding: 2px 9px; font-size: 11.5px; color: var(--ink-2); background: var(--surface); }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 9px; overflow: hidden; background: var(--surface); }
+.seg button { border: 0; border-radius: 0; background: transparent; padding: 5px 11px; }
+.seg button.on { background: color-mix(in srgb, var(--accent) 13%, transparent); color: var(--accent); }
+.tag-note { position: fixed; right: 14px; bottom: 12px; z-index: 50; font-size: 11.5px; color: var(--ink-2); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 4px 9px; }
+svg.i { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; flex: none; }
