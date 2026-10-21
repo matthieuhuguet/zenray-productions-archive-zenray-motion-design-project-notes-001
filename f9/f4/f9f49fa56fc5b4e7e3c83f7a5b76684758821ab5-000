@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-21T14:00:57.535Z",
+ "scannedAt": "2026-10-21T14:22:58.447Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -197,19 +197,19 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 25,
+   "lines": 27,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-18T08:34:57.561Z",
-   "last": "2026-10-21T01:24:04.845Z",
+   "last": "2026-10-21T14:13:18.415Z",
    "strength": "weak",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-21T14:00:37.362Z",
-   "bytes": 40358,
-   "boundProject": null
+   "updatedAt": "2026-10-21T14:17:50.545Z",
+   "bytes": 40531,
+   "boundProject": "louisiana-bayou"
   },
   {
    "projectId": "zenray-motion-design",
@@ -240,7 +240,7 @@
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology (original /mhzenray)",
    "updatedAt": "2026-10-20T19:18:11.914Z",
-   "bytes": 45452,
+   "bytes": 45461,
    "boundProject": null
   },
   {
@@ -367,8 +367,8 @@
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
    "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T12:37:55.823Z",
-   "bytes": 38681,
+   "updatedAt": "2026-10-21T14:22:19.333Z",
+   "bytes": 38711,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
