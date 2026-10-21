@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-20T18:15:19.743Z",
+ "scannedAt": "2026-10-21T10:20:56.421Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -159,8 +159,8 @@
    "provider": "codex",
    "sessionId": "01a15a23-1157-7ef3-83c9-9ce9461c3247",
    "title": "Conversation codex 01a15a23",
-   "updatedAt": "2026-10-20T17:03:35.895Z",
-   "bytes": 12414838,
+   "updatedAt": "2026-10-20T22:31:45.528Z",
+   "bytes": 38921120,
    "boundProject": "zenray-progress"
   },
   {
@@ -200,6 +200,22 @@
    "lines": 25,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-18T08:34:57.561Z",
+   "last": "2026-10-21T01:24:04.845Z",
+   "strength": "weak",
+   "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
+   "provider": "claude",
+   "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
+   "title": "UV Methodology (fork)",
+   "updatedAt": "2026-10-21T10:20:06.900Z",
+   "bytes": 322410279,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 25,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-11T14:42:57.242Z",
    "last": "2026-10-11T23:10:26.021Z",
    "strength": "weak",
@@ -222,9 +238,9 @@
    "conversationId": "claude:a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "provider": "claude",
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
-   "title": "UV Methodology",
-   "updatedAt": "2026-10-20T18:14:20.732Z",
-   "bytes": 42870,
+   "title": "UV Methodology (original /mhzenray)",
+   "updatedAt": "2026-10-20T19:18:11.914Z",
+   "bytes": 45482,
    "boundProject": null
   },
   {
@@ -338,6 +354,22 @@
    "updatedAt": "2026-10-14T13:45:00.698Z",
    "bytes": 21122,
    "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-21T09:58:10.163Z",
+   "last": "2026-10-21T09:58:10.163Z",
+   "strength": "weak",
+   "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
+   "provider": "claude",
+   "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
+   "title": "StudioPhoto Enhancing Assets",
+   "updatedAt": "2026-10-21T10:20:01.855Z",
+   "bytes": 29651197,
+   "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
    "projectId": "zenray-motion-design",
