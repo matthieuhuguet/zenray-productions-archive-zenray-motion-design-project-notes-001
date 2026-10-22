@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-22T16:14:15.212Z",
+ "scannedAt": "2026-10-22T16:34:53.261Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -207,8 +207,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T16:13:27.725Z",
-   "bytes": 398184615,
+   "updatedAt": "2026-10-22T16:34:37.002Z",
+   "bytes": 398430360,
    "boundProject": "louisiana-bayou"
   },
   {
