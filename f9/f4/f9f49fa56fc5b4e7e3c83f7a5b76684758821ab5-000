@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-22T21:21:46.470Z",
+ "scannedAt": "2026-10-22T21:31:46.726Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -159,8 +159,8 @@
    "provider": "codex",
    "sessionId": "01a15a23-1157-7ef3-83c9-9ce9461c3247",
    "title": "Conversation codex 01a15a23",
-   "updatedAt": "2026-10-22T10:47:27.754Z",
-   "bytes": 41855549,
+   "updatedAt": "2026-10-22T21:27:17.592Z",
+   "bytes": 42567998,
    "boundProject": "zenray-progress"
   },
   {
@@ -287,8 +287,8 @@
    "provider": "claude",
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T21:21:02.138Z",
-   "bytes": 4627308,
+   "updatedAt": "2026-10-22T21:31:35.620Z",
+   "bytes": 4683526,
    "boundProject": null
   },
   {
