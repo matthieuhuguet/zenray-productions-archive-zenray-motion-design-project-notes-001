@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-22T22:08:47.444Z",
+ "scannedAt": "2026-10-22T22:18:47.515Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 3960,
+   "lines": 3966,
    "work": 902,
    "prompts": 18,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-22T22:08:40.812Z",
+   "last": "2026-10-22T22:09:34.496Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "3 motion design and editing video",
-   "updatedAt": "2026-10-22T22:08:41.023Z",
-   "bytes": 429114793,
+   "updatedAt": "2026-10-22T22:09:46.176Z",
+   "bytes": 22339,
    "boundProject": null
   },
   {
@@ -287,8 +287,8 @@
    "provider": "claude",
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
-   "updatedAt": "2026-10-22T22:01:33.103Z",
-   "bytes": 4732485,
+   "updatedAt": "2026-10-22T22:18:03.646Z",
+   "bytes": 38657,
    "boundProject": null
   },
   {
