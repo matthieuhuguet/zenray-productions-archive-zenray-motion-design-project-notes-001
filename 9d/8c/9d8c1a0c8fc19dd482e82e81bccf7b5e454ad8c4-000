@@ -12251,3 +12251,18 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (23 October 2026, 00:09:33 +0200)
 
 > Apple MacBook Pro ad reproduced as 22 procedural ppm sequences (ap-title template, measured colour tracks, beams, objects), Validate group Apple MacBook Pro; 60 Hz perf work and 3 UI mockups done earlier this session. Next: Matthieu judges in Validate. (23 October 2026, 00:09:33 +0200)
+
+## 23 October 2026, 17:58:57 +0200 : Prompt
+
+<!-- feedback-event:a9b29e3c7f9f66bfa84ba834a5c122461bb068dd544ad98b3bfc7414f4fa63b8 (23 October 2026, 17:58:57 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 17:58:57 +0200)
+
+> 23 October 2026, prompt : « reproduire l'animation PlayStation Studios Opening Animation de 0:09 à 0:17 sec. go. /ytb-dlp /zenray-motion-design » (youtube UvXVA_ZLAWo). Fait : projet playstation-studios-opening-ppm, gabarit ps-open, mesuré sur toutes les images, Validate et Threads, formats vérifiés, 7,1 ms par image (banc logiciel). Limites : pose du logo de 2,6 à 3,4 s approchée, entrée 3D en verre extrudé en couches. (23 October 2026, 17:58:57 +0200)
+
+## 23 October 2026, 17:58:59 +0200 : Iteration
+
+<!-- feedback-event:3995be6a40e54fee6ebd3e1d5f00fb47f1391d164c3a243453400b43a2a7ac39 (23 October 2026, 17:58:59 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (23 October 2026, 17:58:59 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (23 October 2026, 17:58:59 +0200)
+
+> PlayStation Studios Opening 0:09-0:17 reproduit : projet playstation-studios-opening-ppm (gabarit ps-open, logo decalque, SVG filters cuits), Validate + Threads, formats 9x16/1x1/4x5 verifies, test_runtime 0 echec, banc 7,1 ms/image. Prochain : verdict de Matthieu dans Validate, affiner la pose du logo 2,6-3,4 s. (23 October 2026, 17:58:59 +0200)
