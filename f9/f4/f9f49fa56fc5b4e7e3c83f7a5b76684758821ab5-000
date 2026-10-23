@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-23T22:08:30.069Z",
+ "scannedAt": "2026-10-23T22:14:29.160Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -351,8 +351,8 @@
    "provider": "claude",
    "sessionId": "11264bd4-8a19-4e76-b9be-dc012304e419",
    "title": "zenray knowledge",
-   "updatedAt": "2026-10-23T22:07:26.762Z",
-   "bytes": 35123282,
+   "updatedAt": "2026-10-23T22:14:02.995Z",
+   "bytes": 35146437,
    "boundProject": "zenray-knowledge-23-october-2026"
   },
   {
