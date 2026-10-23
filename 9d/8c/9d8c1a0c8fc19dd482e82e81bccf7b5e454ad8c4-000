@@ -12337,3 +12337,10 @@
 - Project: zenray-motion-design; kind: prompt. (23 October 2026, 22:23:49 +0200)
 
 > Prompt (23 October 2026): ZenRay Sony puis PlayStation : cinq variations de couleur (rouge vif, vert, turquoise, jaune, magenta) dans la même vidéo avec un sélecteur pour changer le design. Fait : palette dans le post-process, contrôle Palette du design. (23 October 2026, 22:23:49 +0200)
+
+## 23 October 2026, 22:34:44 +0200 : Prompt
+
+<!-- feedback-event:a88f47e594dc8d0c0bc29961a7bde39cd8e3d94e371ff83f74326cbc7e0748ab (23 October 2026, 22:34:44 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 22:34:44 +0200)
+
+> Prompt (23 October 2026): le sélecteur de palette ne marche pas dans ma fenêtre, refais les cinq versions dans d'autres vidéos. Fait : cinq projets séparés zenray-sony-playstation-<couleur>-ppm. (23 October 2026, 22:34:44 +0200)
