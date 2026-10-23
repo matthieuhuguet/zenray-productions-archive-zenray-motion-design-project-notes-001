@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-23T11:24:29.667Z",
+ "scannedAt": "2026-10-23T11:36:29.116Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -191,8 +191,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "zenray uv",
-   "updatedAt": "2026-10-23T11:23:33.797Z",
-   "bytes": 409379618,
+   "updatedAt": "2026-10-23T11:35:40.094Z",
+   "bytes": 414870817,
    "boundProject": "louisiana-bayou"
   },
   {
