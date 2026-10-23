@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-23T11:48:29.320Z",
+ "scannedAt": "2026-10-23T12:02:29.348Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -191,8 +191,8 @@
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
    "title": "zenray uv",
-   "updatedAt": "2026-10-23T11:48:20.495Z",
-   "bytes": 40562,
+   "updatedAt": "2026-10-23T12:01:48.860Z",
+   "bytes": 416427885,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -224,7 +224,7 @@
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology (original /mhzenray)",
    "updatedAt": "2026-10-20T19:18:11.914Z",
-   "bytes": 44455,
+   "bytes": 45445,
    "boundProject": null
   },
   {
