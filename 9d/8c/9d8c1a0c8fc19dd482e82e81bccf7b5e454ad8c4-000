@@ -12309,3 +12309,24 @@
 - Project: zenray-motion-design; kind: prompt. (23 October 2026, 21:08:02 +0200)
 
 > Correction (23 October 2026): motion 3 trop long entre 6 et 10 s, on enchaîne directement sur le faisceau et le logo (14,5 s au lieu de 18 s) ; N et Y non conformes à SONY, refaits depuis les lettres décalquées ; Y asymétrique. (23 October 2026, 21:08:02 +0200)
+
+## 23 October 2026, 21:16:37 +0200 : Prompt
+
+<!-- feedback-event:cb7c1d6b475830eebdf8e7ae13feee70dc6bd66e14161c7cd06ddc88a08363ef (23 October 2026, 21:16:37 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 21:16:37 +0200)
+
+> Correction (23 October 2026): refaire le A qui n'est pas symétrique (fait : symétrie miroir, paramètre aContrast). (23 October 2026, 21:16:37 +0200)
+
+## 23 October 2026, 21:21:26 +0200 : Prompt
+
+<!-- feedback-event:f21270a390a57661df95ca266ab32775918653380cadc98f20ed85114e055a2d (23 October 2026, 21:21:26 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 21:21:26 +0200)
+
+> Correction (23 October 2026): espaces R-A et A-Y inégaux (fait : crénage optique mesuré sur SONY). (23 October 2026, 21:21:26 +0200)
+
+## 23 October 2026, 21:27:09 +0200 : Prompt
+
+<!-- feedback-event:03fadca11b4dde441b4698f635ef02f3298912d7c38fe2fc232c20272e1ae966 (23 October 2026, 21:27:09 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 21:27:09 +0200)
+
+> Correction (23 October 2026): l'espacement optique était moins bien ; retour au tableau à la main avec R-A 0 et A-Y -25, puis arrêt. (23 October 2026, 21:27:09 +0200)
