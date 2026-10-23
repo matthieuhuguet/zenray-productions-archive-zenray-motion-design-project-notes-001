@@ -12266,3 +12266,46 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (23 October 2026, 17:58:59 +0200)
 
 > PlayStation Studios Opening 0:09-0:17 reproduit : projet playstation-studios-opening-ppm (gabarit ps-open, logo decalque, SVG filters cuits), Validate + Threads, formats 9x16/1x1/4x5 verifies, test_runtime 0 echec, banc 7,1 ms/image. Prochain : verdict de Matthieu dans Validate, affiner la pose du logo 2,6-3,4 s. (23 October 2026, 17:58:59 +0200)
+
+## 23 October 2026, 19:20:00 +0200 : Prompt
+
+<!-- feedback-event:306fcce0c0e5c9fc9b223cfbe083a93e786abdda4116449185f8f363fa34a6c0 (23 October 2026, 19:20:00 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 19:20:00 +0200)
+
+> 23 October 2026, prompt : variation ZenRay de l'ouverture PlayStation (logo ZenRayLogoSvgBlackTransparent.svg, contours extérieurs blancs, mot ZENRAY, go /wait-validation). Puis correction : « il y a des contours bleus au début de l'animation PlayStation qui n'apparaissent pas sur ZenRay ; le contour est beaucoup plus fin et plus bleu ; décalage sur les bords en gradient comme une comète ». Fait : projet zenray-logo-opening-ppm ; contour du logo fin et bleu dans les deux projets, cadre en comètes, faces arrière en contours dégradés ; blanc réservé au cadre, au halo et au mot. (23 October 2026, 19:20:00 +0200)
+
+## 23 October 2026, 19:20:03 +0200 : Iteration
+
+<!-- feedback-event:79335bcb344822545c3ce9bfb327b562676824329946755be1a9c1f243b4bc6e (23 October 2026, 19:20:03 +0200) -->
+- Project: zenray-motion-design; kind: iteration. (23 October 2026, 19:20:03 +0200)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (23 October 2026, 19:20:03 +0200)
+
+> Variation ZenRay (zenray-logo-opening-ppm) + correction contour fin bleu, cadre en cometes, faces arriere en contours; PlayStation et ZenRay a 6,2 et 6,3 ms/image; test_runtime 0 echec. Prochain: verdict de Matthieu dans Validate, pose 3D 2,6-3,4 s a affiner si besoin. (23 October 2026, 19:20:03 +0200)
+
+## 23 October 2026, 20:33:53 +0200 : Prompt
+
+<!-- feedback-event:6a64e6745e9dad3a2e2109764d796e23f0a163eb217e332cd4f660ba49ac964a (23 October 2026, 20:33:53 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 20:33:53 +0200)
+
+> Prompt (23 October 2026): https://www.youtube.com/watch?v=PjJ5VYkdgXI /ytb-dlp, on prend ce trailer (Sony logo 2021, 15 s). Recréer le motion exact jusqu'à 10 s, puis une variation avec la fonte procédurale qui écrit ZENRAY (problème du Y trop espacé à corriger), et à 10 s la transition vers la variation sur les boutons triangle, rond, croix, carré. (23 October 2026, 20:33:53 +0200)
+
+## 23 October 2026, 20:35:47 +0200 : Prompt
+
+<!-- feedback-event:7097ee56635aea97bde16b5cf0f668496926d30067c166c506fbc08e2993d674 (23 October 2026, 20:35:47 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 20:35:47 +0200)
+
+> Précision (23 October 2026): refaire le motion Sony seulement jusqu'à 10 s (SONY, exact) ; puis une variation de 0 à 10 s avec la fonte procédurale qui écrit ZENRAY à la place de SONY ; ensuite transition vers le nouveau motion (ouverture PlayStation, boutons triangle rond croix carré) et le logo complet. (23 October 2026, 20:35:47 +0200)
+
+## 23 October 2026, 20:58:55 +0200 : Log
+
+<!-- feedback-event:5b9a2554eec1e1191180946335391411563d86e73db133e2b7a999d92129345e (23 October 2026, 20:58:55 +0200) -->
+- Project: zenray-motion-design; kind: log. (23 October 2026, 20:58:55 +0200)
+
+> Résultat (23 October 2026): trois projets Sony. 1) sony-logo-2021-ppm (révélation SONY 0 à 10 s, écart moyen 0,3 à 0,9 sur 255 après calibration sur le rendu). 2) zenray-sony-reveal-ppm (mêmes mouvements, capitales procédurales ZENRAY, N et Y recouvrent 0,86 et 0,88 les lettres décalquées). 3) zenray-sony-playstation-ppm (acte 1 = projet 2, acte 2 = ouverture PlayStation où ZENRAY en verre bleu remplace les quatre boutons, puis logo ZenRay et ZENRAY en Inter Bold crénelé dessous). Perf 6,7 à 7,0 ms par image. (23 October 2026, 20:58:55 +0200)
+
+## 23 October 2026, 21:08:02 +0200 : Prompt
+
+<!-- feedback-event:e5347c5139b1181630fb431bdf95c0b75d48fd8700442b6e2eaefa9346c3b80e (23 October 2026, 21:08:02 +0200) -->
+- Project: zenray-motion-design; kind: prompt. (23 October 2026, 21:08:02 +0200)
+
+> Correction (23 October 2026): motion 3 trop long entre 6 et 10 s, on enchaîne directement sur le faisceau et le logo (14,5 s au lieu de 18 s) ; N et Y non conformes à SONY, refaits depuis les lettres décalquées ; Y asymétrique. (23 October 2026, 21:08:02 +0200)
