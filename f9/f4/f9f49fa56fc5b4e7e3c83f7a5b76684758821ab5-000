@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-22T22:30:47.593Z",
+ "scannedAt": "2026-10-23T11:24:29.667Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -14,9 +14,9 @@
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
-   "title": "3 motion design and editing video",
+   "title": "zenray motion design",
    "updatedAt": "2026-10-22T22:09:46.176Z",
-   "bytes": 22339,
+   "bytes": 22379,
    "boundProject": null
   },
   {
@@ -32,7 +32,7 @@
    "sessionId": "700c9dbd-ebb7-4b65-85ac-543e6ec80993",
    "title": "Limite de motion design prompt de recherche",
    "updatedAt": "2026-10-15T18:45:10.638Z",
-   "bytes": 30695,
+   "bytes": 30696,
    "boundProject": null
   },
   {
@@ -50,22 +50,6 @@
    "updatedAt": "2026-10-14T13:36:42.695Z",
    "bytes": 46514632,
    "boundProject": "zenray-motion-design"
-  },
-  {
-   "projectId": "zenray-motion-design",
-   "lines": 145,
-   "work": 78,
-   "prompts": 0,
-   "first": "2026-10-13T18:50:12.106Z",
-   "last": "2026-10-13T21:05:22.427Z",
-   "strength": "strong",
-   "conversationId": "codex:01a13699-a7ed-70e1-8dec-195a33900e86",
-   "provider": "codex",
-   "sessionId": "01a13699-a7ed-70e1-8dec-195a33900e86",
-   "title": "Conversation codex 01a13699",
-   "updatedAt": "2026-10-13T22:11:29.810Z",
-   "bytes": 5648209,
-   "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
@@ -96,7 +80,7 @@
    "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
    "title": "MOTION DESIGN",
    "updatedAt": "2026-10-11T15:18:28.747Z",
-   "bytes": 21086,
+   "bytes": 21087,
    "boundProject": "zenray-motion-design-01"
   },
   {
@@ -126,8 +110,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "Conversation Gemini d497c75f",
-   "updatedAt": "2026-10-13T18:55:41.045Z",
+   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
+   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -142,8 +126,8 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "Conversation Gemini e5ad7aef",
-   "updatedAt": "2026-10-13T10:11:02.705Z",
+   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
+   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
    "bytes": 2293760,
    "boundProject": null
   },
@@ -190,25 +174,25 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "Conversation Gemini d2144d76",
-   "updatedAt": "2026-10-18T08:16:24.226Z",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
    "bytes": 1245184,
    "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 55,
+   "lines": 56,
    "work": 0,
    "prompts": 0,
    "first": "2026-10-18T08:34:57.561Z",
-   "last": "2026-10-22T16:58:52.420Z",
+   "last": "2026-10-23T11:09:29.698Z",
    "strength": "weak",
    "conversationId": "claude:beb9938e-4434-4925-8d13-137bb7940fc0",
    "provider": "claude",
    "sessionId": "beb9938e-4434-4925-8d13-137bb7940fc0",
-   "title": "UV Methodology (fork)",
-   "updatedAt": "2026-10-22T21:40:46.245Z",
-   "bytes": 40555,
+   "title": "zenray uv",
+   "updatedAt": "2026-10-23T11:23:33.797Z",
+   "bytes": 409379618,
    "boundProject": "louisiana-bayou"
   },
   {
@@ -224,7 +208,7 @@
    "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
    "title": "ZENRAY HEIGHT",
    "updatedAt": "2026-10-12T04:52:19.855Z",
-   "bytes": 21121,
+   "bytes": 21122,
    "boundProject": "zenray-height"
   },
   {
@@ -240,7 +224,7 @@
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology (original /mhzenray)",
    "updatedAt": "2026-10-20T19:18:11.914Z",
-   "bytes": 45538,
+   "bytes": 44728,
    "boundProject": null
   },
   {
@@ -256,7 +240,7 @@
    "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
    "title": "ZenRay Assets UI rework in zenray edit",
    "updatedAt": "2026-10-14T10:45:04.320Z",
-   "bytes": 21342,
+   "bytes": 21343,
    "boundProject": "zenray-assets-tube-view"
   },
   {
@@ -272,7 +256,7 @@
    "sessionId": "97dafd1e-ddee-454d-997b-6216fe6d4064",
    "title": "ZENRAY HEIGHT (fork)",
    "updatedAt": "2026-10-11T21:28:15.851Z",
-   "bytes": 21082,
+   "bytes": 21083,
    "boundProject": "zenray-height"
   },
   {
@@ -288,7 +272,7 @@
    "sessionId": "c599a27c-4ba9-4fbc-b29f-9cf95d1bbcb6",
    "title": "Iphone Photos",
    "updatedAt": "2026-10-22T22:30:23.100Z",
-   "bytes": 38258,
+   "bytes": 38259,
    "boundProject": null
   },
   {
@@ -304,7 +288,7 @@
    "sessionId": "5bd15db6-f2d9-4010-bcb3-0d609a42bc5e",
    "title": "performance assets and drive",
    "updatedAt": "2026-10-15T07:02:22.911Z",
-   "bytes": 34516,
+   "bytes": 34517,
    "boundProject": "zenray-progress"
   },
   {
@@ -320,7 +304,7 @@
    "sessionId": "5eff1aab-c6ea-4a74-81cf-51380f6fc653",
    "title": "ZENRAY FREELANCE",
    "updatedAt": "2026-10-12T10:50:49.075Z",
-   "bytes": 20968,
+   "bytes": 20969,
    "boundProject": "zenray-freelance"
   },
   {
@@ -336,7 +320,7 @@
    "sessionId": "af61e9e4-17cb-46aa-b66a-922874eb123f",
    "title": "ZENRAY ASSETS",
    "updatedAt": "2026-10-11T22:51:54.267Z",
-   "bytes": 20971,
+   "bytes": 20972,
    "boundProject": null
   },
   {
@@ -352,7 +336,7 @@
    "sessionId": "fc4febb5-8a38-4c74-8919-9a72175d0d7e",
    "title": "DRIVE evolution (fork)",
    "updatedAt": "2026-10-14T19:11:34.636Z",
-   "bytes": 21050,
+   "bytes": 21051,
    "boundProject": null
   },
   {
@@ -368,7 +352,7 @@
    "sessionId": "ff2c4a10-5024-4fbb-917a-0b2ac5886f52",
    "title": "Design Lecteur Video",
    "updatedAt": "2026-10-14T13:45:00.698Z",
-   "bytes": 21122,
+   "bytes": 21123,
    "boundProject": null
   },
   {
@@ -382,9 +366,9 @@
    "conversationId": "claude:2ce02bbc-dad5-488e-9ffc-51313c488339",
    "provider": "claude",
    "sessionId": "2ce02bbc-dad5-488e-9ffc-51313c488339",
-   "title": "StudioPhoto Enhancing Assets",
-   "updatedAt": "2026-10-21T17:14:21.465Z",
-   "bytes": 38528,
+   "title": "studio photos",
+   "updatedAt": "2026-10-23T11:17:19.759Z",
+   "bytes": 38507,
    "boundProject": "studiophoto-matthieu-17-october-2026"
   },
   {
@@ -416,7 +400,7 @@
    "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
    "title": "LOUISIANA BAYOU",
    "updatedAt": "2026-10-11T15:13:10.697Z",
-   "bytes": 20964,
+   "bytes": 20965,
    "boundProject": "louisiana-bayou"
   }
  ]
