@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-26T11:04:21.836Z",
+ "scannedAt": "2026-10-26T11:28:23.697Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -296,6 +296,22 @@
    "lines": 5,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-26T10:18:45.765Z",
+   "last": "2026-10-26T11:20:28.169Z",
+   "strength": "weak",
+   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "provider": "claude",
+   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
+   "title": "speech to text claude",
+   "updatedAt": "2026-10-26T11:24:39.709Z",
+   "bytes": 38519,
+   "boundProject": "zenray-dictate"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 5,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-23T21:01:19.136Z",
    "last": "2026-10-25T11:15:32.120Z",
    "strength": "weak",
@@ -322,22 +338,6 @@
    "updatedAt": "2026-10-22T22:30:23.100Z",
    "bytes": 38259,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-motion-design",
-   "lines": 4,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-26T10:18:45.765Z",
-   "last": "2026-10-26T11:00:09.985Z",
-   "strength": "weak",
-   "conversationId": "claude:7b4fce4a-5400-4962-a3d3-28b11fde651d",
-   "provider": "claude",
-   "sessionId": "7b4fce4a-5400-4962-a3d3-28b11fde651d",
-   "title": "speech to text claude",
-   "updatedAt": "2026-10-26T11:04:20.086Z",
-   "bytes": 17353358,
-   "boundProject": "zenray-dictate"
   },
   {
    "projectId": "zenray-motion-design",
