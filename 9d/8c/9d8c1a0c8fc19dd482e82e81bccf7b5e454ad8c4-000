@@ -12365,3 +12365,18 @@
 - Project: zenray-motion-design; kind: rule. (26 October 2026, 19:02:21 +0100)
 
 > 26 October 2026 : CAUSE du « visible chez Claude, invisible dans l'app » : ids de filtres SVG fixes (zs-ab-0, zs-post-0) en double dans la page Validate (une carte par projet) ; url(#id) prend le premier du document. Ids uniques par construction (jeton aléatoire). Avant de dire qu'un effet est visible : Scripts/CheckInApp.py (WebKit, plusieurs cartes), jamais une carte seule dans Chromium. (26 October 2026, 19:02:21 +0100)
+
+## 26 October 2026, 19:32:30 +0100 : Standing rule
+
+<!-- feedback-event:7d6762204f5e9232711aa9e21326ac5e9a98a34a606119419e5c4a3fe3e020aa (26 October 2026, 19:32:30 +0100) -->
+- Project: zenray-motion-design; kind: rule. (26 October 2026, 19:32:30 +0100)
+
+> L'app macOS WKWebView est dépréciée (26 October 2026) : ZenRay Motion Design.app est un lanceur Chrome, tout passe par la page HTML /motion/validate et /motion/ dans Chrome. Une preuve de rendu se prend dans Chrome, jamais dans WebKit ; l'outillage WebKit sert au diagnostic seulement. Mots de Matthieu : « tu consignes dans le skill que l'app est deprecated et que tout passe directement dans un HTML maintenant ». (26 October 2026, 19:32:30 +0100)
+
+## 26 October 2026, 19:34:07 +0100 : Iteration
+
+<!-- feedback-event:25f7504e3bfdf13ec5c211264346e1bc7a0cb42b10c632abcf359104302e15d8 (26 October 2026, 19:34:07 +0100) -->
+- Project: zenray-motion-design; kind: iteration. (26 October 2026, 19:34:07 +0100)
+- Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (26 October 2026, 19:34:07 +0100)
+
+> App macOS WKWebView dépréciée (26 October 2026) : ZenRay Motion Design.app est un lanceur Chrome (shell/ZenRayMotionDesign.sh, profil privé), tout passe par /motion/validate et /motion/ en HTML. Preuves : Chromium montre les franges à 4,7 s, test_runtime 0 échec, essai à blanc du lanceur OK, commit 21f29f4 poussé sur main. Consigné : skill zenray-motion-design (+Labs, miroirs), docs V1/ARCHITECTURE, Project1.md, règle de feedback. Prochain geste : Matthieu ferme l ancienne app (pid 34109) puis ouvre ZenRay Motion Design.app et regarde la carte D à 4,7 s. (26 October 2026, 19:34:07 +0100)
