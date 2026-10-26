@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-26T19:32:00.112Z",
+ "scannedAt": "2026-10-26T20:26:00.829Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -85,19 +85,35 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 106,
-   "work": 8,
+   "lines": 127,
+   "work": 9,
    "prompts": 3,
    "first": "2026-10-25T14:09:05.239Z",
-   "last": "2026-10-26T19:30:28.496Z",
+   "last": "2026-10-26T20:25:55.048Z",
    "strength": "strong",
    "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
    "provider": "claude",
    "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
    "title": "zenray sfx",
-   "updatedAt": "2026-10-26T19:31:57.440Z",
-   "bytes": 38493,
+   "updatedAt": "2026-10-26T20:25:56.845Z",
+   "bytes": 29548277,
    "boundProject": "zenray-sfx-25-october-2026"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 76,
+   "work": 7,
+   "prompts": 1,
+   "first": "2026-10-25T23:57:51.442Z",
+   "last": "2026-10-26T20:02:52.461Z",
+   "strength": "strong",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-26T20:10:09.888Z",
+   "bytes": 38284,
+   "boundProject": "zenray-meshes"
   },
   {
    "projectId": "zenray-motion-design",
@@ -130,22 +146,6 @@
    "updatedAt": "2026-10-13T10:09:58.438974+00:00",
    "bytes": 2293760,
    "boundProject": null
-  },
-  {
-   "projectId": "zenray-motion-design",
-   "lines": 43,
-   "work": 2,
-   "prompts": 0,
-   "first": "2026-10-25T23:57:51.442Z",
-   "last": "2026-10-26T17:45:11.010Z",
-   "strength": "weak",
-   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "provider": "claude",
-   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "title": "zenray meshes",
-   "updatedAt": "2026-10-26T18:56:16.506Z",
-   "bytes": 38253,
-   "boundProject": "zenray-meshes"
   },
   {
    "projectId": "zenray-motion-design",
