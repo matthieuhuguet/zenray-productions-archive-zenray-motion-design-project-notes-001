@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-26T19:14:59.897Z",
+ "scannedAt": "2026-10-26T19:17:59.905Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -95,8 +95,8 @@
    "provider": "claude",
    "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
    "title": "zenray sfx",
-   "updatedAt": "2026-10-26T19:14:51.586Z",
-   "bytes": 38482,
+   "updatedAt": "2026-10-26T19:17:16.953Z",
+   "bytes": 38496,
    "boundProject": "zenray-sfx-25-october-2026"
   },
   {
