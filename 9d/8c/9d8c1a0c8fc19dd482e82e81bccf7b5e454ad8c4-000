@@ -12387,3 +12387,10 @@
 - Project: zenray-motion-design; kind: rule. (26 October 2026, 19:47:14 +0100)
 
 > Solution validée par Matthieu dans sa fenêtre le 26 October 2026 à 19:44 : passer l'app en page HTML ouverte dans Chrome (idée de Matthieu), l'aberration chromatique est visible. À continuer à l'avenir. Variante E demandée : aberration 2 fois plus courte (0,5 s) et 3 fois moins ample (9,333 px), copie de D, projet zenray-sony-playstation-e-ppm ; il choisira le facteur après l'avoir vue. (26 October 2026, 19:47:14 +0100)
+
+## 26 October 2026, 19:52:11 +0100 : Prompt
+
+<!-- feedback-event:b7321dc782ad2529fcfcb87ea3a35c6746fa9a9af8e1fb3685bd1e0b1215a0b0 (26 October 2026, 19:52:11 +0100) -->
+- Project: zenray-motion-design; kind: prompt. (26 October 2026, 19:52:11 +0100)
+
+> L'aberration chromatique de D et E apparaît et disparaît en une image. Demande de Matthieu (26 October 2026) : un easing, ease out exponentiel, uniquement sur l'aberration. Fait : réglages abEase et abAttack (catégorie pulse), variante F (copie de E, courbe Exponentiel out). Matthieu donnera la courbe finale. (26 October 2026, 19:52:11 +0100)
