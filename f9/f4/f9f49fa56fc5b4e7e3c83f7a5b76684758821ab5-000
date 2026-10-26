@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-26T17:45:57.673Z",
+ "scannedAt": "2026-10-26T17:50:57.677Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 5132,
-   "work": 1167,
+   "lines": 5142,
+   "work": 1171,
    "prompts": 24,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-26T17:45:12.458Z",
+   "last": "2026-10-26T17:50:41.030Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-26T17:45:25.596Z",
-   "bytes": 22403,
+   "updatedAt": "2026-10-26T17:50:45.640Z",
+   "bytes": 534535336,
    "boundProject": null
   },
   {
@@ -85,18 +85,18 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 55,
+   "lines": 57,
    "work": 3,
    "prompts": 1,
    "first": "2026-10-25T14:09:05.239Z",
-   "last": "2026-10-26T17:45:23.054Z",
+   "last": "2026-10-26T17:47:56.529Z",
    "strength": "strong",
    "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
    "provider": "claude",
    "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
    "title": "zenray sfx",
-   "updatedAt": "2026-10-26T17:45:23.054Z",
-   "bytes": 16006147,
+   "updatedAt": "2026-10-26T17:50:56.620Z",
+   "bytes": 17006685,
    "boundProject": "zenray-sfx-25-october-2026"
   },
   {
