@@ -12380,3 +12380,10 @@
 - Source: checkpoint:claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383. (26 October 2026, 19:34:07 +0100)
 
 > App macOS WKWebView dépréciée (26 October 2026) : ZenRay Motion Design.app est un lanceur Chrome (shell/ZenRayMotionDesign.sh, profil privé), tout passe par /motion/validate et /motion/ en HTML. Preuves : Chromium montre les franges à 4,7 s, test_runtime 0 échec, essai à blanc du lanceur OK, commit 21f29f4 poussé sur main. Consigné : skill zenray-motion-design (+Labs, miroirs), docs V1/ARCHITECTURE, Project1.md, règle de feedback. Prochain geste : Matthieu ferme l ancienne app (pid 34109) puis ouvre ZenRay Motion Design.app et regarde la carte D à 4,7 s. (26 October 2026, 19:34:07 +0100)
+
+## 26 October 2026, 19:47:14 +0100 : Standing rule
+
+<!-- feedback-event:5ba0eed87a9d6c02f4d74696b66eaee5b193f10949dfa3dc7416503e39f8023a (26 October 2026, 19:47:14 +0100) -->
+- Project: zenray-motion-design; kind: rule. (26 October 2026, 19:47:14 +0100)
+
+> Solution validée par Matthieu dans sa fenêtre le 26 October 2026 à 19:44 : passer l'app en page HTML ouverte dans Chrome (idée de Matthieu), l'aberration chromatique est visible. À continuer à l'avenir. Variante E demandée : aberration 2 fois plus courte (0,5 s) et 3 fois moins ample (9,333 px), copie de D, projet zenray-sony-playstation-e-ppm ; il choisira le facteur après l'avoir vue. (26 October 2026, 19:47:14 +0100)
