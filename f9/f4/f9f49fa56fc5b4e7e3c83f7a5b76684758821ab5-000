@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-26T09:37:18.612Z",
+ "scannedAt": "2026-10-26T09:51:19.709Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 5047,
-   "work": 1148,
+   "lines": 5058,
+   "work": 1149,
    "prompts": 24,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-26T09:34:20.175Z",
+   "last": "2026-10-26T09:37:34.346Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-26T09:34:14.496Z",
-   "bytes": 528259677,
+   "updatedAt": "2026-10-26T09:38:01.148Z",
+   "bytes": 22397,
    "boundProject": null
   },
   {
@@ -85,22 +85,6 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 12,
-   "work": 6,
-   "prompts": 0,
-   "first": "2026-10-12T12:37:43.903Z",
-   "last": "2026-10-17T21:25:39.891Z",
-   "strength": "strong",
-   "conversationId": "codex:01a1301b-f199-7773-863c-b2a78d50b909",
-   "provider": "codex",
-   "sessionId": "01a1301b-f199-7773-863c-b2a78d50b909",
-   "title": "Conversation codex 01a1301b",
-   "updatedAt": "2026-10-18T22:34:26.136Z",
-   "bytes": 41044233,
-   "boundProject": "zenray-japanese"
-  },
-  {
-   "projectId": "zenray-motion-design",
    "lines": 3,
    "work": 3,
    "prompts": 0,
@@ -143,8 +127,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-26T09:34:18.127Z",
-   "bytes": 380734068,
+   "updatedAt": "2026-10-26T09:46:00.954Z",
+   "bytes": 38230,
    "boundProject": "zenray-meshes"
   },
   {
@@ -256,7 +240,7 @@
    "sessionId": "a3f20b1d-27ed-48e1-a0d1-5fe182c0e423",
    "title": "UV Methodology (original /mhzenray)",
    "updatedAt": "2026-10-20T19:18:11.914Z",
-   "bytes": 45229,
+   "bytes": 41538,
    "boundProject": null
   },
   {
@@ -463,8 +447,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-26T09:22:00.864Z",
-   "bytes": 38425,
+   "updatedAt": "2026-10-26T09:50:29.811Z",
+   "bytes": 5474236,
    "boundProject": null
   },
   {
