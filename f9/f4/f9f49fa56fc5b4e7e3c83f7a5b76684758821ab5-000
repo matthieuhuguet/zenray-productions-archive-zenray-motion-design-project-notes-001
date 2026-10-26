@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-26T09:51:19.709Z",
+ "scannedAt": "2026-10-26T09:55:19.720Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -447,8 +447,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-26T09:50:29.811Z",
-   "bytes": 5474236,
+   "updatedAt": "2026-10-26T09:54:24.493Z",
+   "bytes": 38425,
    "boundProject": null
   },
   {
