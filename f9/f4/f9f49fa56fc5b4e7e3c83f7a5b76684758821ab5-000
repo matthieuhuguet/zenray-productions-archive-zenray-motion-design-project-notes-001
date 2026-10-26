@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-25T11:35:25.201Z",
+ "scannedAt": "2026-10-26T00:23:15.393Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
-   "lines": 4810,
-   "work": 1097,
-   "prompts": 23,
+   "lines": 4949,
+   "work": 1128,
+   "prompts": 24,
    "first": "2026-10-14T11:34:57.548Z",
-   "last": "2026-10-23T20:34:45.623Z",
+   "last": "2026-10-26T00:12:18.621Z",
    "strength": "strong",
    "conversationId": "claude:d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "provider": "claude",
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
-   "updatedAt": "2026-10-23T20:34:52.519Z",
-   "bytes": 22401,
+   "updatedAt": "2026-10-26T00:12:32.656Z",
+   "bytes": 22413,
    "boundProject": null
   },
   {
@@ -110,8 +110,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "Conversation Gemini d497c75f",
-   "updatedAt": "2026-10-13T18:55:41.045Z",
+   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
+   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -126,10 +126,26 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "Conversation Gemini e5ad7aef",
-   "updatedAt": "2026-10-13T10:11:02.705Z",
+   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
+   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
    "bytes": 2293760,
    "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 13,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-25T14:09:05.239Z",
+   "last": "2026-10-25T17:38:57.251Z",
+   "strength": "weak",
+   "conversationId": "claude:b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "provider": "claude",
+   "sessionId": "b8e43d99-5824-4ddc-8444-a984b5743a04",
+   "title": "zenray sfx",
+   "updatedAt": "2026-10-25T18:19:59.685Z",
+   "bytes": 38324,
+   "boundProject": "zenray-sfx-25-october-2026"
   },
   {
    "projectId": "zenray-motion-design",
@@ -174,8 +190,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "Conversation Gemini d2144d76",
-   "updatedAt": "2026-10-18T08:16:24.226Z",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -258,6 +274,22 @@
    "updatedAt": "2026-10-11T21:28:15.851Z",
    "bytes": 21083,
    "boundProject": "zenray-height"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 7,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-25T23:57:51.442Z",
+   "last": "2026-10-26T00:20:09.968Z",
+   "strength": "weak",
+   "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "provider": "claude",
+   "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
+   "title": "zenray meshes",
+   "updatedAt": "2026-10-26T00:20:13.384Z",
+   "bytes": 239445405,
+   "boundProject": "zenray-meshes"
   },
   {
    "projectId": "zenray-motion-design",
