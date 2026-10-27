@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-27T16:02:24.214Z",
+ "scannedAt": "2026-10-27T16:03:23.256Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -111,8 +111,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-27T16:02:21.298Z",
-   "bytes": 484447424,
+   "updatedAt": "2026-10-27T16:02:29.582Z",
+   "bytes": 38292,
    "boundProject": "zenray-meshes"
   },
   {
