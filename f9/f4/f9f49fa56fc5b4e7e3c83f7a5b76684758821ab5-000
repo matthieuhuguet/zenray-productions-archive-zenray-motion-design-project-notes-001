@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-27T17:08:35.230Z",
+ "scannedAt": "2026-10-27T20:16:45.336Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -111,8 +111,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-27T17:08:33.244Z",
-   "bytes": 489846773,
+   "updatedAt": "2026-10-27T20:15:56.353Z",
+   "bytes": 38275,
    "boundProject": "zenray-meshes"
   },
   {
@@ -159,8 +159,8 @@
    "provider": "codex",
    "sessionId": "01a17d3d-b439-7f01-bbb4-7ff8aff96cab",
    "title": "Conversation codex 01a17d3d",
-   "updatedAt": "2026-10-27T17:07:26.006Z",
-   "bytes": 15070375,
+   "updatedAt": "2026-10-27T18:11:05.204Z",
+   "bytes": 30049866,
    "boundProject": "zenray-meshes"
   },
   {
@@ -175,8 +175,8 @@
    "provider": "codex",
    "sessionId": "01a17d3d-fb6b-72c2-8fb5-72f5519d6000",
    "title": "Conversation codex 01a17d3d",
-   "updatedAt": "2026-10-27T12:03:55.151Z",
-   "bytes": 997932,
+   "updatedAt": "2026-10-27T17:28:52.419Z",
+   "bytes": 998708,
    "boundProject": null
   },
   {
@@ -479,8 +479,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-27T17:08:30.696Z",
-   "bytes": 23268288,
+   "updatedAt": "2026-10-27T19:59:25.800Z",
+   "bytes": 38599,
    "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
