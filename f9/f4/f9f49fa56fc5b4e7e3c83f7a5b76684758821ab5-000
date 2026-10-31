@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-30T12:16:08.926Z",
+ "scannedAt": "2026-10-30T16:38:33.998Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -143,8 +143,8 @@
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
    "title": "zenray meshes",
-   "updatedAt": "2026-10-30T12:12:35.002Z",
-   "bytes": 814010816,
+   "updatedAt": "2026-10-30T16:37:17.274Z",
+   "bytes": 39290,
    "boundProject": "zenray-meshes"
   },
   {
@@ -159,8 +159,8 @@
    "provider": "codex",
    "sessionId": "01a183ee-37b7-7c60-a028-d9f9a184591a",
    "title": "Conversation codex 01a183ee",
-   "updatedAt": "2026-10-30T03:11:26.597Z",
-   "bytes": 105000546,
+   "updatedAt": "2026-10-30T16:07:49.471Z",
+   "bytes": 124011583,
    "boundProject": "zenray-edit"
   },
   {
@@ -527,8 +527,8 @@
    "provider": "claude",
    "sessionId": "38575095-b716-47ed-af1d-bf22b8ff30eb",
    "title": "zenray freelance",
-   "updatedAt": "2026-10-30T11:56:28.864Z",
-   "bytes": 38999,
+   "updatedAt": "2026-10-30T13:00:29.267Z",
+   "bytes": 38851,
    "boundProject": "zenray-calendar-plan-23-october-2026"
   },
   {
