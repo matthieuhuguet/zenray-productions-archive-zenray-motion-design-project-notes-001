@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-10-31T07:51:19.524Z",
+ "scannedAt": "2026-10-31T14:19:59.490Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -174,8 +174,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
-   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
+   "title": "Conversation Gemini d497c75f",
+   "updatedAt": "2026-10-13T18:55:41.045Z",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -190,8 +190,8 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
-   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
+   "title": "Conversation Gemini e5ad7aef",
+   "updatedAt": "2026-10-13T10:11:02.705Z",
    "bytes": 2293760,
    "boundProject": null
   },
@@ -261,22 +261,6 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 2,
-   "work": 1,
-   "prompts": 0,
-   "first": "2026-10-20T16:30:56.748Z",
-   "last": "2026-10-20T16:30:58.632Z",
-   "strength": "weak",
-   "conversationId": "codex:01a15a23-1157-7ef3-83c9-9ce9461c3247",
-   "provider": "codex",
-   "sessionId": "01a15a23-1157-7ef3-83c9-9ce9461c3247",
-   "title": "Conversation codex 01a15a23",
-   "updatedAt": "2026-10-22T21:27:17.592Z",
-   "bytes": 42567998,
-   "boundProject": "zenray-progress"
-  },
-  {
-   "projectId": "zenray-motion-design",
    "lines": 1,
    "work": 1,
    "prompts": 0,
@@ -287,7 +271,7 @@
    "provider": "gemini",
    "sessionId": "0f4d8ec2-3161-4dd9-aecc-7fd12711a652",
    "title": "Conversation Gemini 0f4d8ec2",
-   "updatedAt": "2026-10-27T16:53:56.494658+00:00",
+   "updatedAt": "2026-10-27T16:54:36.464Z",
    "bytes": 3997696,
    "boundProject": null
   },
@@ -302,8 +286,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
-   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
+   "title": "Conversation Gemini d2144d76",
+   "updatedAt": "2026-10-18T08:16:24.226Z",
    "bytes": 1245184,
    "boundProject": null
   },
