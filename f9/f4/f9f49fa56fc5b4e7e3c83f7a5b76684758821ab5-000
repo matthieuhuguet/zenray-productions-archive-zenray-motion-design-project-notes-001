@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-11-02T22:57:47.419Z",
+ "scannedAt": "2026-11-03T12:12:24.370Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -270,9 +270,9 @@
    "conversationId": "gemini:ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
-   "title": "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à par",
-   "updatedAt": "2026-11-02T22:52:25.793944+00:00",
-   "bytes": 6553600,
+   "title": "Conversation Gemini ec5894db",
+   "updatedAt": "2026-11-03T01:34:03.904Z",
+   "bytes": 23691264,
    "boundProject": "alien-skin-2-november-2026"
   },
   {
