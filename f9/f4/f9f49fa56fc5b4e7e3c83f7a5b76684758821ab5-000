@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-11-03T12:12:24.370Z",
+ "scannedAt": "2026-11-03T18:13:52.758Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -81,6 +81,22 @@
    "title": "Conversation codex 01a17f7d",
    "updatedAt": "2026-10-28T10:13:00.461Z",
    "bytes": 45303381,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 621,
+   "work": 35,
+   "prompts": 5,
+   "first": "2026-11-03T14:17:03.843Z",
+   "last": "2026-11-03T15:28:30.693Z",
+   "strength": "strong",
+   "conversationId": "claude:f1e3a669-6bb1-4ae2-aa51-ac234bc6563d",
+   "provider": "claude",
+   "sessionId": "f1e3a669-6bb1-4ae2-aa51-ac234bc6563d",
+   "title": "motion design first light",
+   "updatedAt": "2026-11-03T15:28:30.711Z",
+   "bytes": 37429,
    "boundProject": null
   },
   {
@@ -271,8 +287,8 @@
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "title": "Conversation Gemini ec5894db",
-   "updatedAt": "2026-11-03T01:34:03.904Z",
-   "bytes": 23691264,
+   "updatedAt": "2026-11-03T14:48:39.811Z",
+   "bytes": 23822336,
    "boundProject": "alien-skin-2-november-2026"
   },
   {
@@ -455,6 +471,22 @@
    "projectId": "zenray-motion-design",
    "lines": 4,
    "work": 0,
+   "prompts": 1,
+   "first": "2026-11-03T16:19:06.390Z",
+   "last": "2026-11-03T16:37:02.396Z",
+   "strength": "weak",
+   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "provider": "claude",
+   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "title": "zorah materials",
+   "updatedAt": "2026-11-03T17:59:16.633Z",
+   "bytes": 37352,
+   "boundProject": "zorah-materials"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 4,
+   "work": 0,
    "prompts": 0,
    "first": "2026-10-14T21:21:50.550Z",
    "last": "2026-10-15T00:22:42.161Z",
@@ -466,6 +498,22 @@
    "updatedAt": "2026-10-15T07:02:22.911Z",
    "bytes": 34517,
    "boundProject": "zenray-progress"
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 3,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-11-03T15:09:25.752Z",
+   "last": "2026-11-03T15:45:19.816Z",
+   "strength": "weak",
+   "conversationId": "claude:fdce96ce-c0fd-4b6e-8530-957817ed13c2",
+   "provider": "claude",
+   "sessionId": "fdce96ce-c0fd-4b6e-8530-957817ed13c2",
+   "title": "zenray assets and edit",
+   "updatedAt": "2026-11-03T17:54:21.914Z",
+   "bytes": 37514,
+   "boundProject": null
   },
   {
    "projectId": "zenray-motion-design",
@@ -513,6 +561,22 @@
    "title": "ZENRAY ASSETS",
    "updatedAt": "2026-10-11T22:51:54.267Z",
    "bytes": 20972,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-03T14:24:07.850Z",
+   "last": "2026-11-03T14:24:07.850Z",
+   "strength": "weak",
+   "conversationId": "claude:2a60d986-26ad-48f2-9e8d-549dd653c64a",
+   "provider": "claude",
+   "sessionId": "2a60d986-26ad-48f2-9e8d-549dd653c64a",
+   "title": "Audit mémoire Mac",
+   "updatedAt": "2026-11-03T14:29:08.020Z",
+   "bytes": 37390,
    "boundProject": null
   },
   {
