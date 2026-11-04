@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-11-04T12:17:32.022Z",
+ "scannedAt": "2026-11-04T18:18:23.296Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -16,7 +16,7 @@
    "sessionId": "d2f26016-25dd-4bcc-a6d8-122d50d3f383",
    "title": "zenray motion design",
    "updatedAt": "2026-10-26T18:52:22.994Z",
-   "bytes": 22509,
+   "bytes": 22576,
    "boundProject": null
   },
   {
@@ -65,22 +65,6 @@
    "title": "Motion Design GLSL (fork) Sonnet 5.5 Après Modules",
    "updatedAt": "2026-10-13T17:04:27.813Z",
    "bytes": 20264,
-   "boundProject": null
-  },
-  {
-   "projectId": "zenray-motion-design",
-   "lines": 75,
-   "work": 39,
-   "prompts": 3,
-   "first": "2026-10-27T22:45:23.524Z",
-   "last": "2026-10-27T23:18:41.954Z",
-   "strength": "strong",
-   "conversationId": "codex:01a17f7d-cb54-7c21-8c4b-78a7b22caa76",
-   "provider": "codex",
-   "sessionId": "01a17f7d-cb54-7c21-8c4b-78a7b22caa76",
-   "title": "Conversation codex 01a17f7d",
-   "updatedAt": "2026-10-28T10:13:00.461Z",
-   "bytes": 45303381,
    "boundProject": null
   },
   {
@@ -222,8 +206,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "Conversation Gemini d497c75f",
-   "updatedAt": "2026-10-13T18:55:41.045Z",
+   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
+   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -238,9 +222,25 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "Conversation Gemini e5ad7aef",
-   "updatedAt": "2026-10-13T10:11:02.705Z",
+   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
+   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
    "bytes": 2293760,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 4,
+   "work": 0,
+   "prompts": 2,
+   "first": "2026-11-04T12:50:54.198Z",
+   "last": "2026-11-04T13:01:30.517Z",
+   "strength": "strong",
+   "conversationId": "claude:ab8eb886-c8c8-4907-9217-d36f0dd11c49",
+   "provider": "claude",
+   "sessionId": "ab8eb886-c8c8-4907-9217-d36f0dd11c49",
+   "title": "Libération d'espace disque Mac",
+   "updatedAt": "2026-11-04T13:19:44.787Z",
+   "bytes": 37948,
    "boundProject": null
   },
   {
@@ -254,8 +254,8 @@
    "conversationId": "gemini:ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
-   "title": "Conversation Gemini ec5894db",
-   "updatedAt": "2026-11-03T14:48:39.811Z",
+   "title": "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à par",
+   "updatedAt": "2026-11-03T14:47:36.270035+00:00",
    "bytes": 23822336,
    "boundProject": "alien-skin-2-november-2026"
   },
@@ -271,7 +271,7 @@
    "provider": "gemini",
    "sessionId": "0f4d8ec2-3161-4dd9-aecc-7fd12711a652",
    "title": "Conversation Gemini 0f4d8ec2",
-   "updatedAt": "2026-10-27T16:54:36.464Z",
+   "updatedAt": "2026-10-27T16:53:56.494658+00:00",
    "bytes": 3997696,
    "boundProject": null
   },
@@ -286,8 +286,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "Conversation Gemini d2144d76",
-   "updatedAt": "2026-10-18T08:16:24.226Z",
+   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
+   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
    "bytes": 1245184,
    "boundProject": null
   },
@@ -472,6 +472,22 @@
    "lines": 3,
    "work": 0,
    "prompts": 1,
+   "first": "2026-11-04T12:10:30.497Z",
+   "last": "2026-11-04T12:38:10.556Z",
+   "strength": "weak",
+   "conversationId": "claude:a1fda4e5-399d-437b-9e9e-c21bc6b9973f",
+   "provider": "claude",
+   "sessionId": "a1fda4e5-399d-437b-9e9e-c21bc6b9973f",
+   "title": "Skill ZenRay Build Nintendo Games",
+   "updatedAt": "2026-11-04T13:43:18.407Z",
+   "bytes": 37949,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 3,
+   "work": 0,
+   "prompts": 1,
    "first": "2026-11-03T15:09:25.752Z",
    "last": "2026-11-03T15:45:19.816Z",
    "strength": "weak",
@@ -536,15 +552,15 @@
    "lines": 2,
    "work": 0,
    "prompts": 1,
-   "first": "2026-11-04T12:10:30.497Z",
-   "last": "2026-11-04T12:10:30.497Z",
+   "first": "2026-11-04T12:37:30.859Z",
+   "last": "2026-11-04T12:37:30.859Z",
    "strength": "weak",
-   "conversationId": "claude:a1fda4e5-399d-437b-9e9e-c21bc6b9973f",
+   "conversationId": "claude:c0e93d26-8268-4475-97b4-0c4c7af585f8",
    "provider": "claude",
-   "sessionId": "a1fda4e5-399d-437b-9e9e-c21bc6b9973f",
-   "title": "Skill ZenRay Build Nintendo Games",
-   "updatedAt": "2026-11-04T12:16:23.393Z",
-   "bytes": 37883,
+   "sessionId": "c0e93d26-8268-4475-97b4-0c4c7af585f8",
+   "title": "Zelda Twilight Princess ROM parts renaming",
+   "updatedAt": "2026-11-04T12:37:58.069Z",
+   "bytes": 37896,
    "boundProject": null
   },
   {
