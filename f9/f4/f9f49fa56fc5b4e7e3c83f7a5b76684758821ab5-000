@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-11-06T05:22:48.615Z",
+ "scannedAt": "2026-11-08T18:27:49.689Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -165,22 +165,6 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 9,
-   "work": 3,
-   "prompts": 0,
-   "first": "2026-10-28T19:13:31.035Z",
-   "last": "2026-10-29T22:06:43.494Z",
-   "strength": "strong",
-   "conversationId": "codex:01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "provider": "codex",
-   "sessionId": "01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "title": "Conversation codex 01a183ee",
-   "updatedAt": "2026-10-31T06:22:27.936Z",
-   "bytes": 130681305,
-   "boundProject": "zenray-edit"
-  },
-  {
-   "projectId": "zenray-motion-design",
    "lines": 7,
    "work": 3,
    "prompts": 0,
@@ -206,8 +190,8 @@
    "conversationId": "gemini:d497c75f-8809-407e-a21e-238432d044d7",
    "provider": "gemini",
    "sessionId": "d497c75f-8809-407e-a21e-238432d044d7",
-   "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
-   "updatedAt": "2026-10-13T18:54:59.014425+00:00",
+   "title": "Conversation Gemini d497c75f",
+   "updatedAt": "2026-10-13T18:55:41.045Z",
    "bytes": 5111808,
    "boundProject": null
   },
@@ -222,8 +206,8 @@
    "conversationId": "gemini:e5ad7aef-7efd-4836-ae5c-536290ba4cea",
    "provider": "gemini",
    "sessionId": "e5ad7aef-7efd-4836-ae5c-536290ba4cea",
-   "title": "dans le projet zenray motion design ou sont les images comparaison du modules vector notamment les dernieres get context with Je saute la qu",
-   "updatedAt": "2026-10-13T10:09:58.438974+00:00",
+   "title": "Conversation Gemini e5ad7aef",
+   "updatedAt": "2026-10-13T10:11:02.705Z",
    "bytes": 2293760,
    "boundProject": null
   },
@@ -270,8 +254,8 @@
    "conversationId": "gemini:ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
-   "title": "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à par",
-   "updatedAt": "2026-11-03T14:47:36.270035+00:00",
+   "title": "Conversation Gemini ec5894db",
+   "updatedAt": "2026-11-03T14:48:39.811Z",
    "bytes": 23822336,
    "boundProject": "alien-skin-2-november-2026"
   },
@@ -287,7 +271,7 @@
    "provider": "gemini",
    "sessionId": "0f4d8ec2-3161-4dd9-aecc-7fd12711a652",
    "title": "Conversation Gemini 0f4d8ec2",
-   "updatedAt": "2026-10-27T16:53:56.494658+00:00",
+   "updatedAt": "2026-10-27T16:54:36.464Z",
    "bytes": 3997696,
    "boundProject": null
   },
@@ -302,8 +286,8 @@
    "conversationId": "gemini:d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
    "provider": "gemini",
    "sessionId": "d2144d76-b982-4a76-b7a7-3b4fe8f119d2",
-   "title": "en terme de boost le thé ou le café lequel est le plus puissant et pourquoi et est ce que ça dépend des thé ou des cafés de l'infusion et ou",
-   "updatedAt": "2026-10-18T08:15:43.599273+00:00",
+   "title": "Conversation Gemini d2144d76",
+   "updatedAt": "2026-10-18T08:16:24.226Z",
    "bytes": 1245184,
    "boundProject": null
   },
