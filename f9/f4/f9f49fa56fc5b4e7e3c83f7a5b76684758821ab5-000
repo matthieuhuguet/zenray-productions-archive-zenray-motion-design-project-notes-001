@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-11-09T14:42:14.135Z",
+ "scannedAt": "2026-11-09T20:43:38.660Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -165,18 +165,18 @@
   },
   {
    "projectId": "zenray-motion-design",
-   "lines": 12,
-   "work": 4,
+   "lines": 14,
+   "work": 5,
    "prompts": 0,
    "first": "2026-11-09T12:16:55.630Z",
-   "last": "2026-11-09T13:43:05.461Z",
+   "last": "2026-11-09T14:46:14.172Z",
    "strength": "strong",
    "conversationId": "codex:01a1b880-053e-79d2-a657-256ca3f2e083",
    "provider": "codex",
    "sessionId": "01a1b880-053e-79d2-a657-256ca3f2e083",
    "title": "Conversation codex 01a1b880",
-   "updatedAt": "2026-11-09T14:42:02.955Z",
-   "bytes": 18068577,
+   "updatedAt": "2026-11-09T17:57:36.479Z",
+   "bytes": 36324724,
    "boundProject": "zenray-progress"
   },
   {
@@ -193,6 +193,22 @@
    "title": "J'aimerais vérifier un truc, c'est que ZenRe Assets doit lier toutes les conversations d'un projet et lier aussi la dernière conversation d'",
    "updatedAt": "2026-10-13T18:54:59.014425+00:00",
    "bytes": 5111808,
+   "boundProject": null
+  },
+  {
+   "projectId": "zenray-motion-design",
+   "lines": 2,
+   "work": 2,
+   "prompts": 1,
+   "first": "2026-11-09T14:46:23.825Z",
+   "last": "2026-11-09T14:46:23.825Z",
+   "strength": "strong",
+   "conversationId": "codex:01a1c0af-65a5-78d0-ad48-977dec068293",
+   "provider": "codex",
+   "sessionId": "01a1c0af-65a5-78d0-ad48-977dec068293",
+   "title": "Conversation codex 01a1c0af",
+   "updatedAt": "2026-11-09T14:52:34.491Z",
+   "bytes": 1169234,
    "boundProject": null
   },
   {
@@ -223,8 +239,8 @@
    "provider": "claude",
    "sessionId": "ab8eb886-c8c8-4907-9217-d36f0dd11c49",
    "title": "zenray disk space",
-   "updatedAt": "2026-11-09T14:00:00.682Z",
-   "bytes": 38001,
+   "updatedAt": "2026-11-09T20:40:07.245Z",
+   "bytes": 276336,
    "boundProject": null
   },
   {
@@ -399,8 +415,8 @@
    "provider": "claude",
    "sessionId": "fdce96ce-c0fd-4b6e-8530-957817ed13c2",
    "title": "zenray documents",
-   "updatedAt": "2026-11-09T14:13:54.759Z",
-   "bytes": 38115,
+   "updatedAt": "2026-11-09T19:30:53.081Z",
+   "bytes": 38048,
    "boundProject": null
   },
   {
