@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "zenray-motion-design",
- "scannedAt": "2026-11-10T14:47:00.452Z",
+ "scannedAt": "2026-11-10T20:48:05.783Z",
  "conversations": [
   {
    "projectId": "zenray-motion-design",
@@ -239,8 +239,8 @@
    "provider": "claude",
    "sessionId": "ab8eb886-c8c8-4907-9217-d36f0dd11c49",
    "title": "zenray disk space",
-   "updatedAt": "2026-11-09T23:37:32.358Z",
-   "bytes": 276186,
+   "updatedAt": "2026-11-10T18:08:37.267Z",
+   "bytes": 274521,
    "boundProject": null
   },
   {
